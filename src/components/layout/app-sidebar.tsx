@@ -36,7 +36,7 @@ export function AppSidebar() {
   }, {} as CategorizedLinks);
 
   return (
-    <Sidebar collapsible="icon" variant="sidebar" side="left" defaultOpen={true}>
+    <Sidebar collapsible="icon" variant="sidebar" side="left">
       <SidebarHeader className="p-4">
         <Link href="/" className="flex items-center gap-2 group-data-[collapsible=icon]:justify-center">
           <BookHeart className="h-8 w-8 text-primary transition-transform duration-300 group-hover:scale-110" />
@@ -80,7 +80,7 @@ export function AppSidebar() {
             asChild
             tooltip={{ children: "View Source on GitHub", side: "right", align: "center"}}
           >
-            <a href="https://github.com/FirebaseExtended/genkit-nextjs-shadcn-ταιwind-starter" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+            <a href="https://github.com/FirebaseExtended/genkit-nextjs-shadcn-tailwind-starter" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
               <CustomIcon IconComponent={Github} />
               <span className="group-data-[collapsible=icon]:hidden text-xs">View Source</span>
             </a>
