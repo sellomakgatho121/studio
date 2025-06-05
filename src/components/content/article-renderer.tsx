@@ -125,9 +125,11 @@ export function ArticleRenderer({ page }: ArticleRendererProps) {
   animationDelay = 0; // Reset animation delay for each article render
   return (
     <article className="max-w-5xl mx-auto p-4 md:p-8 lg:p-12">
-      <header className="mb-10 animate-fadeIn" style={{ animationDelay: getAnimationDelay() }}>
-        <h1 className="font-headline text-5xl md:text-6xl font-bold text-primary mb-4 leading-tight">{page.title}</h1>
-        <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed">{page.introduction}</p>
+      <header className="mb-10"> {/* Removed animate-fadeIn from here, will be on h1 */}
+        <h1 className="font-headline text-5xl md:text-6xl font-bold text-primary mb-4 leading-tight animate-titleFluidEntry animate-timedTitleGlow hover:[text-shadow:0_0_8px_hsl(var(--accent)/0.7),_0_0_12px_hsl(var(--accent)/0.5),_0_0_16px_hsl(var(--accent)/0.3)] transition-[text-shadow] duration-300 ease-out">
+          {page.title}
+        </h1>
+        <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed animate-fadeIn" style={{animationDelay: '0.3s'}}>{/* Added slight delay to intro paragraph */}</p>
       </header>
       <Separator className="my-10" />
       
@@ -165,4 +167,3 @@ export function ArticleRenderer({ page }: ArticleRendererProps) {
     </article>
   );
 }
-
