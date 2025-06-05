@@ -53,7 +53,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Underpins and informs the health and vitality of the physical, emotional, and mental bodies."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Abstract visualization of consciousness interacting with Lightbody fields', dataAiHint: 'consciousness light interaction' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/d/d4/HolographicUniverse3.jpg', alt: 'Abstract visualization of consciousness interacting with Lightbody fields', dataAiHint: 'consciousness light interaction' },
           { type: 'quote', text: "The Lightbody is the soul's radiant garment, woven from the threads of cosmic light and divine intention, perfectly designed to navigate the infinite ocean of existence.", source: "Modern Esoteric Teachings & Ancient Wisdom Synthesis" }
         ],
         deepDiveContext: "The Lightbody, also known as the Merkaba in some contexts, is a complex, multi-dimensional energetic structure fundamental to spiritual evolution. Explore its definition, geometric basis (like the star tetrahedron), its dynamic relationship with consciousness, its role as a vehicle for ascension and interdimensional experience, and the distinctions or overlaps between the terms 'Lightbody' and 'Merkaba'. Consider its significance in various spiritual traditions and for personal development."
@@ -73,7 +73,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
                 "Sacred Geometrical Grids & Templates: Underlying patterns of light and geometry that structure and inform the energy field, often based on forms like the Flower of Life, Metatron's Cube, and Platonic Solids.",
                 "Pranic Tube (Central Light Column): The primary vertical energy current running through the center of the body, connecting all chakras and the apexes of the Merkaba tetrahedrons."
             ]},
-            { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Illustration showing human figure with aura layers and chakra system clearly depicted', dataAiHint: 'aura layers chakras' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/e/ed/HGSBodyLotusPoints-NL-PrintDoc.png', alt: 'Illustration showing human figure with aura layers and chakra system clearly depicted', dataAiHint: 'aura layers chakras' },
             { type: 'quote', text: "Within you lies a universe of energy, structured by divine geometry, waiting to be awakened and consciously navigated.", source: "The Seer's Journal" }
         ],
         deepDiveContext: "The detailed architecture of the Lightbody involves the Merkaba (star tetrahedron), the complete chakra system (major and beyond), the various layers of the auric field, and extensive networks of energy meridians or nadis like Sushumna, Ida, and Pingala. These components are intricately connected through sacred geometry and the flow of prana via the central light column. Understanding the function and interplay of these components is key to comprehending its operation as a vehicle of consciousness and its role in health and spiritual development."
@@ -84,7 +84,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         content: [
           { type: 'paragraph', text: "Lightbody activation is a profound, often gradual, transformative process that can occur spontaneously as a result of intense spiritual awakening, near-death experiences, or be intentionally and consciously cultivated through dedicated, disciplined spiritual practices. It fundamentally involves clearing energetic blockages and distortions, purifying limiting emotional and mental patterns, significantly raising one's overall vibrational frequency, and consciously integrating higher, more refined aspects of the Self, Soul, or I AM Presence." },
           { type: 'paragraph', text: "This isn't a one-time event but an ongoing journey of refinement and expansion. Key practices that facilitate Lightbody activation are diverse and often synergistic, working on multiple levels of one's being:" },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Person in deep meditation with visible aura, geometric light patterns, and spinning Merkaba fields clearly visible', dataAiHint: 'meditation lightbody activation merkaba' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/ff/Gold-Activation-Density-Merge.jpg', alt: 'Person in deep meditation with visible aura, geometric light patterns, and spinning Merkaba fields clearly visible', dataAiHint: 'meditation lightbody activation merkaba' },
           { type: 'list', items: [
               "Merkaba Meditation: Specific, often complex, breathing patterns (e.g., the 17-breath technique popularized by Drunvalo Melchizedek) combined with precise visualizations to cleanse the pranic tube and initiate the counter-rotation of the Merkaba fields.",
               "Sound Healing & Frequency Work: Utilizing tuning forks, crystal bowls, Tibetan singing bowls, chanting, toning, specific solfeggio frequencies, or binaural beats to clear energetic debris, attune chakras, and raise the vibrational frequency of the cells and energy field.",
@@ -96,7 +96,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Cultivating Unconditional Love & Compassion: Heart-centered practices that open the heart chakra and fuel the Merkaba field, as love is considered its primary activating force."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Collage of sound bowls, crystals, and sacred geometry symbols', dataAiHint: 'healing tools geometry crystals' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/ee/Goldcrystalgrid.jpg', alt: 'Collage of sound bowls, crystals, and sacred geometry symbols', dataAiHint: 'healing tools geometry crystals' },
           { type: 'quote', text: "As you consciously engage in activating your Lightbody, you become not just a seeker of light, but a potent beacon and anchor of higher frequencies for the planet, contributing directly to the collective awakening.", source: "Ancient Wisdom Texts adapted & Modern Mystic" }
         ],
         deepDiveContext: "The intricate process of Lightbody activation involves a spectrum of dedicated spiritual practices and lifestyle choices. These range from specific Merkaba meditations and advanced breathwork (pranayama) to sound healing, sacred geometry work, energy healing modalities, emotional clearing (shadow work), and cultivating a high-vibrational state through diet and heart-centered living. Exploring these methods provides practical steps for spiritual growth, consciousness expansion, and attunement to higher dimensional energies."
@@ -118,7 +118,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Return to the 'Adam Kadmon' Blueprint: Realignment with the original divine human template of perfection and multidimensionality."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Glowing human silhouette with activated DNA strands visible', dataAiHint: 'human dna evolution' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/93/18-Emerald_Sun_DNA-48.jpg', alt: 'Glowing human silhouette with activated DNA strands visible', dataAiHint: 'human dna evolution' },
           { type: 'quote', text: "Your DNA is not merely a biological script; it is a cosmic library, a living antenna attuned to the symphony of creation, holding the codes for your divine potential.", source: "Galactic Historian Archives" }
         ],
         deepDiveContext: "The intricate connection between what is termed 'DNA activation' or 'DNA recoding' (often referring to latent or multi-dimensional aspects beyond the known double helix) and Lightbody development is pivotal for understanding accelerated spiritual evolution. This involves exploring how genetic potential might unfold in conjunction with spiritual awakening, leading to an increased capacity to embody light, heightened psychic abilities, cellular rejuvenation, and a deeper connection to one's soul purpose and the original divine human blueprint (Adam Kadmon)."
@@ -128,7 +128,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Multifaceted Benefits and Profound Significance of an Activated Lightbody',
         content: [
           { type: 'paragraph', text: "Activating, consciously developing, and maintaining a strong, coherent, and fully functional Lightbody yields a multitude of profound and transformative benefits on physical, emotional, mental, spiritual, and even transpersonal levels. It signifies a monumental step in one's spiritual evolution and ability to navigate higher realities." },
-          { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Radiant human figure surrounded by protective light, exuding peace and power', dataAiHint: 'empowered human light' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/2/2f/Goldshield.png', alt: 'Radiant human figure surrounded by protective light, exuding peace and power', dataAiHint: 'empowered human light' },
           { type: 'list', items: [
               "Enhanced Intuition, Psychic Abilities, and Direct Knowing: Clearer inner guidance, heightened senses (clairvoyance, clairsentience, etc.), telepathic potential, and direct access to wisdom (gnosis).",
               "Greater Emotional Balance, Resilience, and Mastery: Ability to process emotions with grace, maintaining inner peace and equanimity amidst external chaos. Release from reactive patterns.",
@@ -143,7 +143,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Increased Creativity and Inspiration: Access to higher vibrational thought-forms and creative energies."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/550x380.png', alt: 'Person joyfully interacting with nature, light emanating from them', dataAiHint: 'joyful vibrant energy' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/fb/Grdngather.jpg', alt: 'Person joyfully interacting with nature, light emanating from them', dataAiHint: 'joyful vibrant energy' },
           { type: 'quote', text: "The activated Lightbody is your personal chariot of ascension, your sovereign key to navigating the higher realms, embodying your full divine potential, and serving as a luminous bridge between Heaven and Earth.", source: "Modern Mystic & Alchemist Teachings" }
         ],
         deepDiveContext: "The tangible and intangible benefits of developing one's Lightbody are extensive and transformative, impacting all areas of life from physical health, emotional stability, and mental clarity to profound spiritual experiences like enhanced intuition, interdimensional awareness, accelerated soul evolution, and the ability to contribute significantly to planetary healing and collective consciousness shifts. Explore specific examples and the interconnectedness of these benefits."
@@ -168,7 +168,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Sacred Geometric Architecture of the Merkaba',
         content: [
           { type: 'paragraph', text: "The Merkaba, in its most commonly visualized and taught form, is a breathtakingly beautiful and powerful sacred geometric structure: the star tetrahedron. This is formed by two perfectly interlocked, counter-rotating three-sided pyramids (tetrahedrons) of pure light. A tetrahedron is a fundamental Platonic Solid with four triangular faces, four vertices, and six edges. The upward-pointing tetrahedron, often referred to as the 'solar' or 'male' tetrahedron, represents masculine principle, electrical energy, intellect, and connects to energies from the Sun, stars, and higher cosmic sources. It is typically visualized as spinning in one direction (often clockwise from an external top view, or counter-clockwise if imagined from within looking out)." },
-          { type: 'image', src: 'https://placehold.co/650x450.png', alt: 'Detailed Merkaba Geometry - Star Tetrahedron with directional energy flows, spin directions, and connections to pranic tube', dataAiHint: 'merkaba star tetrahedron spin' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/8/8f/12DShieldsm.jpg', alt: 'Detailed Merkaba Geometry - Star Tetrahedron with directional energy flows, spin directions, and connections to pranic tube', dataAiHint: 'merkaba star tetrahedron spin' },
           { type: 'paragraph', text: "Conversely, the downward-pointing tetrahedron, the 'lunar' or 'female' tetrahedron, symbolizes feminine principle, magnetic energy, emotion, and connects to energies from the Earth, the telluric currents, and the divine feminine. It spins in the opposite direction to the male tetrahedron. The term 'Merkaba' itself originates from ancient Egyptian mystery schools: 'Mer' signifies specific kinds of counter-rotating Light fields, 'Ka' refers to the individual Spirit or consciousness, and 'Ba' indicates the Body or physical reality/vehicle. Thus, Merkaba translates to the spirit/body complex enveloped and interpenetrated by counter-rotating fields of light, which functions as a potent vehicle to transport the spirit/body complex from one dimension, reality, or state of consciousness to another." },
           { type: 'paragraph', text: "The precise geometric relationships, proportions (often involving Phi, the Golden Ratio), and energetic integrity within the Merkaba are absolutely crucial for its optimal function. When correctly formed and activated, it creates a powerful, self-contained, self-generating, and highly resonant toroidal energy field that can interface with the fabric of spacetime itself." },
           { type: 'list', items: [
@@ -178,7 +178,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Counter-rotation Dynamics: The opposing spins of the two tetrahedrons at specific, harmonically related speeds are what generate the Merkaba field's immense power, stability, and transmutational capabilities.",
             "Geometric Purity: The perfection of the geometric form is essential for its proper functioning; imperfections can lead to instability or reduced effectiveness."
           ]},
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Close up of the interlocking point of the two tetrahedrons showing energy exchange', dataAiHint: 'merkaba interlocking geometry' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c6/12D-Tree-Path-of-Fall.jpg', alt: 'Close up of the interlocking point of the two tetrahedrons showing energy exchange', dataAiHint: 'merkaba interlocking geometry' },
         ],
         deepDiveContext: "The specific geometry of the Merkaba, particularly the star tetrahedron formed by two counter-rotating male (solar/electrical) and female (lunar/magnetic) tetrahedrons, and its energetic properties (including the pranic tube/Sushumna) are key to its function as a spiritual vehicle. Explore the symbolism of each tetrahedron, the significance of their interlocked nature, and how their perfect geometry relates to universal creative principles and Platonic Solids."
       },
@@ -227,7 +227,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Harnessing the Power: Applications and Uses of an Activated Merkaba',
         content: [
           { type: 'paragraph', text: "An activated, consciously controlled, and well-maintained Merkaba field is an extraordinarily versatile and potent spiritual technology. Its applications extend far beyond its primary function as a vehicle for interdimensional travel and consciousness expansion, profoundly impacting all areas of life:" },
-          { type: 'image', src: 'https://placehold.co/550x380.png', alt: 'Symbolic representation of Merkaba interacting with earth, cosmos, and human consciousness, showing protective and expansive qualities', dataAiHint: 'merkaba earth cosmos consciousness' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/a/af/GlobalMC.png', alt: 'Symbolic representation of Merkaba interacting with earth, cosmos, and human consciousness, showing protective and expansive qualities', dataAiHint: 'merkaba earth cosmos consciousness' },
           { type: 'list', items: [
               "Enhanced Spiritual Protection & Energetic Sovereignty: Creates an incredibly powerful, intelligent shield of light that can deflect, transmute, or neutralize discordant or negative energies, psychic attacks, and detrimental environmental influences.",
               "Profound Healing & Rejuvenation: Can be used for potent self-healing or to facilitate healing for others by directing focused, high-frequency, coherent light and prana to specific areas of the body or energy field. Some teachings suggest it can positively influence cellular regeneration and de-aging processes.",
@@ -265,7 +265,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Understanding Ascension: A Paradigm Shift in Being',
         content: [
           { type: 'paragraph', text: "Ascension is a natural, inherent, and accelerating evolutionary process involving a significant and sustained shift in consciousness coupled with a measurable increase in one's overall vibrational frequency. It is the sacred journey of moving from a denser, more limited, often ego-identified state of awareness (typically associated with 3rd-dimensional reality and its paradigms of separation, duality, and limitation) to progressively higher, more expanded, unified, and love-based states of being (often termed 5th dimension and beyond). This is not merely a physical relocation to another place, but a profound internal alchemical transformation. It culminates in spiritual enlightenment, the conscious embodiment of one's Higher Self or Soul (the I AM Presence), and a direct, lived experience of unity and interconnectedness with All That Is." },
-          { type: 'image', src: 'https://placehold.co/700x450.png', alt: 'Stylized human silhouette transforming into pure light, ascending a luminous spiral staircase or vortex towards a brilliant star or cosmic gateway', dataAiHint: 'spiritual ascent evolution lightbeing' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/98/Greetings_through_the_Stargate.jpg', alt: 'Stylized human silhouette transforming into pure light, ascending a luminous spiral staircase or vortex towards a brilliant star or cosmic gateway', dataAiHint: 'spiritual ascent evolution lightbeing' },
           { type: 'paragraph', text: "The core of the ascension process involves systematically identifying, confronting, healing, releasing, and transmuting old, limiting patterns, deeply ingrained beliefs, unresolved emotional baggage, karmic imprints, ancestral miasms, and societal conditioning that no longer serve our highest evolutionary trajectory. As these densities and distortions are cleared from our energetic field and consciousness, we create space to align more fully and coherently with our true, divine essence – our original blueprint of perfection. This allows an ever-increasing influx of our soul's light, wisdom, love, and power to integrate into our physical, emotional, and mental bodies, transforming our experience of reality from the inside out. It is, in essence, a grand journey of remembering and re-embodying who we truly are at the deepest level of our being." },
           { type: 'list', items: [
             "A natural evolutionary imperative for consciousness.",
@@ -284,7 +284,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Navigating the Terrain: Key Stages and Phases of the Ascension Journey',
         content: [
           { type: 'paragraph', text: "While the ascension journey is profoundly personal, unique, and often non-linear for each individual soul, common stages, phases, or energetic gateways are often described in spiritual literature and channeled teachings. These stages are not always sequential and can overlap, repeat, or be experienced with varying intensity and duration:" },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'A winding path or spiral moving through different landscapes representing stages of growth and challenge', dataAiHint: 'ascension journey path stages' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/6/64/12timelines.jpg', alt: 'A winding path or spiral moving through different landscapes representing stages of growth and challenge', dataAiHint: 'ascension journey path stages' },
           { type: 'list', items: [
               "The Call & Awakening: Characterized by initial deep spiritual insights, a persistent questioning of the nature of consensus reality, a profound yearning for deeper meaning and purpose, and often triggered by significant life events (crises, losses, synchronicities) or direct spiritual experiences (mystical visions, encounters). A sense of dissatisfaction with the mundane may arise.",
               "Purification & Intense Clearing (Often including 'The Dark Night of the Soul'): A crucial, often challenging, phase involving the courageous confrontation, processing, and systematic release of deep-seated karma, old traumas (personal, ancestral, collective), limiting beliefs, fear-based programming, addictive patterns, and repressed negative emotions. This can feel like a dismantling of the old self and reality structure, but is essential for raising vibrational frequency and creating space for new light.",
@@ -294,7 +294,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Planetary & Cosmic Ascension & Beyond: Contributing consciously to the collective ascension of humanity and the planet. Participating in co-creating new earth realities. Potential for further evolution into even higher states of being, cosmic awareness, and service on a galactic or universal scale."
             ], ordered: true
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Silhouette of a person with an illuminated heart chakra, radiating light', dataAiHint: 'heart activation service' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c4/Green_Tara_Mother.jpg', alt: 'Silhouette of a person with an illuminated heart chakra, radiating light', dataAiHint: 'heart activation service' },
           { type: 'quote', text: "Each stage of ascension meticulously prepares you for a greater capacity to hold, embody, and radiate divine light, progressively transforming you from a seeker into a radiant source, from a caterpillar into a cosmic butterfly.", source: "Ascended Master Teachings & Modern Alchemical Texts (paraphrased)" }
         ],
         deepDiveContext: "The stages of ascension outline a progressive, often cyclical and non-linear, journey of profound spiritual unfolding. This journey typically encompasses an initial awakening or 'call,' followed by intense purification and clearing phases (which can include the 'Dark Night of the Soul'), leading to the integration of higher energies and consciousness, the activation of one's soul purpose and a drive for service, and ultimately, the sustained embodiment of the Higher Self or Christ/Unity Consciousness. Explore the nuances and challenges of each stage."
@@ -304,7 +304,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Body Electric: Common Ascension Symptoms & Navigating Energetic Shifts',
         content: [
           { type: 'paragraph', text: "As the physical body, emotional body, mental body, and entire energetic system recalibrate, upgrade, and learn to accommodate significantly higher vibrational frequencies of light and consciousness, a wide and sometimes perplexing range of 'ascension symptoms' may arise. These are often temporary and signify profound transformation, detoxification, and adaptation occurring at a cellular and energetic level." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Diagram showing a person experiencing various energy shifts, light integration, with subtle hints of physical/emotional discomfort and release', dataAiHint: 'ascension symptoms energy body' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/41/HSP.png', alt: 'Diagram showing a person experiencing various energy shifts, light integration, with subtle hints of physical/emotional discomfort and release', dataAiHint: 'ascension symptoms energy body' },
           { type: 'paragraph', text: "Common Physical Symptoms May Include:" },
           { type: 'list', items: [
               "Headaches, migraines, unusual pressure in the head (especially crown chakra, third eye, base of skull), tingling scalp.",
@@ -320,7 +320,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Dizziness, vertigo, feeling ungrounded or 'floaty'."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Person with hand on head, looking tired but with a subtle glow, indicating processing of symptoms', dataAiHint: 'physical symptoms fatigue' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c4/1421_Sensory_Homunculus.jpg', alt: 'Person with hand on head, looking tired but with a subtle glow, indicating processing of symptoms', dataAiHint: 'physical symptoms fatigue' },
           { type: 'paragraph', text: "Common Emotional & Mental Symptoms May Include:" },
           { type: 'list', items: [
               "Heightened Emotional Sensitivity & Volatility: Crying easily (tears of joy or sorrow), feeling things very deeply, experiencing intense mood swings or waves of seemingly random emotion (joy, sadness, anger, grief, anxiety, bliss) as old emotional layers surface for release.",
@@ -340,7 +340,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Graceful Navigation: Tools and Practices for the Ascension Journey',
         content: [
           { type: 'paragraph', text: "Successfully and gracefully navigating the often intense and multifaceted ascension process requires conscious effort, unwavering commitment to self-care, dedicated spiritual practice, radical self-honesty, and often, supportive connection with others on a similar path of awakening." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Person meditating peacefully in nature, surrounded by light and harmonious energy', dataAiHint: 'ascension navigation peace nature' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/1/12/Geomantic_Thistle.jpg', alt: 'Person meditating peacefully in nature, surrounded by light and harmonious energy', dataAiHint: 'ascension navigation peace nature' },
           { type: 'list', items: [
               "Grounding & Earthing Practices: Regularly and intentionally connect with Earth's stabilizing and nurturing energy (e.g., walking barefoot on grass/soil, spending ample time in nature, gardening, tree hugging, specific grounding meditations, using grounding crystals like hematite or black tourmaline).",
               "Mindfulness, Meditation & Presence: Cultivate moment-to-moment awareness through consistent meditation (various forms like mindfulness, Vipassana, transcendental, guided visualizations) to stay centered, observe thoughts and emotions without judgment, and access inner stillness amidst profound changes.",
@@ -378,7 +378,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Essence and Universal Principles of Sacred Geometry',
         content: [
           { type: 'paragraph', text: "Sacred Geometry is the ancient and modern study, contemplation, and application of geometric forms, patterns, and mathematical ratios that are considered fundamental to the very fabric, design, and intelligent manifestation of the Universe. It posits that these geometric archetypes are not mere abstract concepts but represent the visual and mathematical language through which Divine Intelligence, Source, or the Universal Mind designs, structures, and brings forth all of manifest reality – from the infinitesimally small (atomic and subatomic structures, DNA) to the unimaginably vast (planetary systems, galaxies, cosmic webs)." },
-          { type: 'image', src: 'https://placehold.co/700x450.png', alt: 'A stunning collage of various key sacred geometry symbols (Flower of Life, Seed of Life, Sri Yantra, Torus, Metatron\'s Cube, Platonic Solids) seamlessly blended with images of galaxies, nebulae, and natural formations like crystals and shells.', dataAiHint: 'sacred geometry collage cosmic nature' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/5/53/Gianttimematrix_144.jpg', alt: 'A stunning collage of various key sacred geometry symbols (Flower of Life, Seed of Life, Sri Yantra, Torus, Metatron\'s Cube, Platonic Solids) seamlessly blended with images of galaxies, nebulae, and natural formations like crystals and shells.', dataAiHint: 'sacred geometry collage cosmic nature' },
           { type: 'paragraph', text: "It acts as a profound bridge between the seen and the unseen, the physical and the spiritual, the finite and the infinite. The core belief underlying sacred geometry is that these primordial patterns, specific ratios (like the Golden Ratio - Phi, approximately 1.618...), and precise proportions are not arbitrary or man-made inventions but are imbued with inherent consciousness, energy, and information. They are observable everywhere in nature (crystals, snowflakes, flowers, shells, the human body), in the vibratory patterns of sound and music (cymatics), in the behavior of light, in cosmological structures, and are prominently featured in ancient sacred architecture, art, and spiritual traditions across the globe, from the pyramids of Egypt to Gothic cathedrals. To understand sacred geometry is often seen as a way to understand the mind of God/Creator and the harmonious order of existence." },
           { type: 'list', items: [
               "Reveals the underlying mathematical order, harmony, and intelligence of the universe.",
@@ -478,7 +478,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Living Geometry: Practical Applications in Spiritual Growth, Healing, and Daily Life',
         content: [
           { type: 'paragraph', text: "Sacred geometry is far from being merely a theoretical, abstract, or philosophical concept; it possesses a multitude of potent practical applications in spiritual development, holistic healing, creative expression, and enhancing the quality and harmony of daily life:" },
-          { type: 'image', src: 'https://placehold.co/650x400.png', alt: 'Person meditating with a crystal grid based on Flower of Life, with light emanating', dataAiHint: 'sacred geometry meditation grid' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/ee/Goldcrystalgrid.jpg', alt: 'Person meditating with a crystal grid based on Flower of Life, with light emanating', dataAiHint: 'sacred geometry meditation grid' },
           { type: 'list', items: [
               "Meditation and Visualization: Focusing on specific sacred geometric symbols (e.g., Flower of Life, Merkaba, Sri Yantra) can quiet the analytical mind, induce altered states of consciousness (Alpha, Theta), facilitate deep relaxation, and promote connection with higher energies, guides, or one's Higher Self.",
               "Energy Healing and Balancing: Geometric forms and patterns are extensively used in various healing modalities to clear energetic blockages, balance and energize chakras and auric fields, and harmonize the body's subtle energy systems. Crystal grids, often arranged in sacred geometric patterns, are a prime example.",
@@ -490,7 +490,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Consciousness Expansion: Engaging with sacred geometry can act as a catalyst for expanding awareness, developing intuition, and accessing higher levels of understanding about the nature of reality."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Architectural design incorporating sacred geometry principles, like a geodesic dome or a building with Golden Ratio proportions', dataAiHint: 'sacred geometry architecture design' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/3/38/Great-Pyramid-Constellations.jpg', alt: 'Architectural design incorporating sacred geometry principles, like a geodesic dome or a building with Golden Ratio proportions', dataAiHint: 'sacred geometry architecture design' },
           { type: 'quote', text: "By consciously attuning to the vibrational frequencies and inherent wisdom of sacred geometry, we attune ourselves to the very heartbeat of creation, unlocking gateways to healing, harmony, and higher consciousness.", source: "Modern Geometer & Mystic" }
         ],
         deepDiveContext: "The practical applications of sacred geometry are vast and impactful, ranging from powerful meditation aids and tools for energy healing (like crystal grids) to fundamental principles for creating harmonious living and working spaces (Feng Shui, Vastu), enhancing artistic and architectural design, and fostering personal growth through understanding universal patterns. It offers tangible ways to interact with and harness universal energies for well-being and consciousness expansion."
@@ -500,21 +500,21 @@ export const glossaryData: Record<string, GlossaryPage> = {
       { title: 'Merkaba Mechanics', slug: 'merkaba-mechanics', category: 'Core Concepts', icon: Sparkles },
       { title: 'The Lightbody', slug: 'lightbody', category: 'Core Concepts', icon: Sun },
       { title: 'Consciousness Studies', slug: 'consciousness-studies', category: 'Related Fields', icon: Brain },
-      { title: 'Platonic Solids', slug: 'platonic-solids', category: 'Sacred Geometry', icon: Gem }, // Self-link, but good for context
+      { title: 'Platonic Solids', slug: 'platonic-solids', category: 'Sacred Geometry', icon: Gem }, 
       { title: 'Golden Ratio', slug: 'golden-ratio', category: 'Mathematical Principles', icon: BarChart3 }
     ]
   },
   'consciousness-studies': {
     slug: 'consciousness-studies',
     title: 'Consciousness Studies: Exploring the Nature of Awareness',
-    introduction: "An in-depth and interdisciplinary exploration into the multifaceted, enigmatic nature of consciousness. This article examines diverse perspectives from spiritual traditions, philosophy (ancient and modern), psychology (various schools), neuroscience, and emerging quantum theories, addressing its elusive definition, proposed levels and states, the 'hard problem,' non-local phenomena, and its profound implications for understanding ourselves, reality, and our place in the cosmos.",
+    introduction: "An in-depth and interdisciplinary exploration into the multifaceted, enigmatic nature of consciousness. This article examines diverse perspectives from spiritual traditions, philosophy (ancient and modern), psychology (various schools), neuroscience, and emerging quantum theories, addressing its elusive definition, proposed levels and states, the 'hard problem', non-local phenomena, and its profound implications for understanding ourselves, reality, and our place in the cosmos.",
     sections: [
       {
         id: 'defining-consciousness',
         subtitle: 'The Elusive Enigma: Attempts at Defining Consciousness',
         content: [
           { type: 'paragraph', text: "Consciousness, often described as the 'Mount Everest' of scientific inquiry or the 'hard problem' in philosophy (a term coined by David Chalmers), refers to the state or quality of subjective awareness, sentience, and the first-person experience of being. It encompasses our immediate and undeniable experience of perceiving external objects, being aware of internal thoughts, emotions, memories, bodily sensations, and possessing a continuous sense of self or 'I-ness'. Despite its absolute centrality to our existence – it is the one thing we can be most certain of – a single, universally accepted, comprehensive definition remains remarkably elusive, making it one of the most profound mysteries facing humanity." },
-          { type: 'image', src: 'https://placehold.co/700x450.png', alt: 'Abstract representation of a human head or a stylized brain with swirling patterns of light, thoughts, cosmic imagery, and question marks inside, symbolizing the mystery of consciousness.', dataAiHint: 'consciousness abstract mind mystery' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/49/Godeyec.jpg', alt: 'Abstract representation of a human head or a stylized brain with swirling patterns of light, thoughts, cosmic imagery, and question marks inside, symbolizing the mystery of consciousness.', dataAiHint: 'consciousness abstract mind mystery' },
           { type: 'paragraph', text: "Consciousness has been defined and explored through a multitude of lenses across disciplines:" },
             { type: 'list', items: [
                 "Subjectivity: The 'what it is like' aspect of experience (qualia) – the redness of red, the pain of a burn. This is often considered the core of the 'hard problem'.",
@@ -526,7 +526,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
                 "Executive Control System: The higher-level cognitive functions that govern attention, decision-making, and purposeful behavior."
             ]},
           { type: 'paragraph', text: "The ongoing quest to understand its nature, origins, and function bridges disciplines from neuroscience and quantum physics to philosophy of mind, psychology, and ancient contemplative traditions, challenging our most fundamental understanding of reality, matter, and mind." },
-          { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Interconnected web of disciplines (science, philosophy, spirituality) all pointing towards a central concept of consciousness', dataAiHint: 'consciousness interdisciplinary web' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/ce/Hologram-diagram.jpg', alt: 'Interconnected web of disciplines (science, philosophy, spirituality) all pointing towards a central concept of consciousness', dataAiHint: 'consciousness interdisciplinary web' },
           { type: 'quote', text: "The mystery of consciousness is perhaps the ultimate frontier of scientific and philosophical inquiry, holding the key not only to understanding who we are but the very fabric of existence and our place within the cosmos.", source: "Modern Philosopher & Scientist Synthesis (paraphrased)" }
         ],
         deepDiveContext: "Defining consciousness is a complex, ongoing, multidisciplinary endeavor. It encompasses subjective awareness (qualia, the 'hard problem'), sentience, selfhood, wakefulness, and the nature of first-person experience itself. Various disciplines, from neuroscience and philosophy to psychology and spiritual traditions, offer diverse perspectives on this fundamental aspect of existence. Explore the different facets of its definition and the challenges in formulating a unified theory."
@@ -536,7 +536,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Spectrum of Awareness: Levels, States, and Dimensions of Consciousness',
         content: [
           { type: 'paragraph', text: "Consciousness is not a monolithic, all-or-nothing entity but rather exists as a vast spectrum, manifesting in various levels, states, and potentially, dimensions of awareness. Numerous spiritual, psychological, esoteric, and even some scientific models propose hierarchical, expansive, or developmental frameworks to describe this rich continuum of human and potentially cosmic experience:" },
-          { type: 'image', src: 'https://placehold.co/600x500.png', alt: 'A luminous spiral galaxy, a multi-runged ladder ascending through different colored layers of light, or a nested set of spheres, representing evolving and expanding levels/dimensions of consciousness.', dataAiHint: 'consciousness levels dimensions spiral' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/6/6a/Godworlds.jpg', alt: 'A luminous spiral galaxy, a multi-runged ladder ascending through different colored layers of light, or a nested set of spheres, representing evolving and expanding levels/dimensions of consciousness.', dataAiHint: 'consciousness levels dimensions spiral' },
           { type: 'list', items: [
               "Subconscious/Unconscious Mind (Freud, Jung): The vast reservoir of the psyche operating below the threshold of normal waking awareness. It profoundly influences thoughts, feelings, behaviors, dreams, and houses repressed memories, instincts, archetypes (Jung), and autonomic bodily functions.",
               "Preconscious Mind: Information that is not currently in conscious awareness but can be readily retrieved and brought into focus (e.g., memories, stored knowledge).",
@@ -580,7 +580,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Primacy of Spirit: Spiritual and Mystical Perspectives on Consciousness',
         content: [
           { type: 'paragraph', text: "In stark contrast to materialistic philosophies that view consciousness as a secondary product or epiphenomenon of matter (i.e., brain activity), most ancient spiritual traditions, mystical paths, and perennial philosophies across cultures posit consciousness as primary, fundamental, and the ultimate ground of all being. In these worldviews, the physical universe, along with individual minds and experiences, are seen as arising from, within, or as manifestations of a boundless, undifferentiated field of Universal Consciousness, Spirit, or Divine Mind." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Cosmic eye or a radiant source of light (symbolizing Universal Consciousness) from which galaxies, nature, and human figures emerge.', dataAiHint: 'universal consciousness source spirit' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/ca/Gnosis.jpg', alt: 'Cosmic eye or a radiant source of light (symbolizing Universal Consciousness) from which galaxies, nature, and human figures emerge.', dataAiHint: 'universal consciousness source spirit' },
           { type: 'list', items: [
               "Vedanta (Hinduism): Brahman is the ultimate, impersonal, attributeless reality – pure, undifferentiated consciousness (Sat-Chit-Ananda: Being-Consciousness-Bliss). Atman (the individual soul or true Self) is considered to be intrinsically identical to Brahman. Realization of this identity is liberation (Moksha).",
               "Buddhism: Concepts like Mind-Stream (Citta-santāna – the continuity of moments of awareness), Buddha-nature (Tathāgatagarbha – the inherent, luminous potential for enlightenment within all sentient beings), and Emptiness (Śūnyatā – the lack of inherent, independent existence of phenomena, pointing to an interdependent, open ground) all highlight the nature of consciousness beyond the illusory ego. The Cittamatra (Mind-Only) school emphasizes consciousness as fundamental.",
@@ -637,18 +637,18 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Foundational Principles: The Science and Spirit of Energy Healing',
         content: [
           { type: 'paragraph', text: "Energy healing encompasses a broad and ancient spectrum of holistic, complementary, and alternative therapeutic practices. These practices are based on the fundamental, cross-cultural principle that all matter, including the human body, is ultimately composed of and animated by energy. These modalities work intelligently with the body's subtle, vital energy systems to identify and remove blockages, correct imbalances, restore harmonious flow, and powerfully stimulate the body's innate, natural capacity to heal itself on all levels." },
-          { type: 'image', src: 'https://placehold.co/700x450.png', alt: 'A serene image of a person with a visible, vibrant aura and clearly defined chakra system, with healing hands gently interacting with or channeling light into the energy field.', dataAiHint: 'energy healing aura chakras light' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/6/6c/GuardianYeshua.png', alt: 'A serene image of a person with a visible, vibrant aura and clearly defined chakra system, with healing hands gently interacting with or channeling light into the energy field.', dataAiHint: 'energy healing aura chakras light' },
           { type: 'paragraph', text: "It is understood within these traditions that persistent imbalances, disruptions, depletions, or stagnations within the body's complex energy field (aura), primary energy centers (chakras), and intricate energy pathways (meridians in TCM, nadis in Yoga) can eventually manifest as physical ailments, emotional distress, mental disturbances, or spiritual disconnection. Energy healing seeks to address the root energetic causes rather than merely alleviating symptoms." },
           { type: 'paragraph', text: "Key concepts central to most energy healing modalities include:" },
           { type: 'list', items: [
             "Life Force Energy (Vital Energy): Known universally by various names such as Chi or Qi (Chinese Traditional Medicine), Ki (Japanese, as in Reiki), Prana (Sanskrit in Yogic and Ayurvedic traditions), Mana (Polynesian cultures), Lung (Tibetan Buddhism), Orgone (Wilhelm Reich), or Biofield Energy. This vital, subtle energy flows through all living things and is considered essential for health and vitality.",
             "The Human Energy Field (HEF) / Aura: A dynamic, multi-layered bio-electromagnetic and subtle energy field that surrounds, interpenetrates, and informs the physical body. It reflects one's overall state of physical health, emotional balance, mental clarity, and spiritual development. It has various layers (etheric, emotional, mental, astral, spiritual, etc.).",
-            "Chakras (Sanskrit: 'wheel' or 'disk'): Spinning vortexes or centers of concentrated energy located along the central channel of the body (Sushumna nadi). There are typically seven main chakras, each associated with specific physiological functions, endocrine glands, emotional states, psychological characteristics, and spiritual aspects of our being.",
+            "Chakras (Sanskrit: 'wheel' or 'disk'): Spinning vortexes or centers of concentrated energy located along the central energy channel of the body (Sushumna nadi). There are typically seven main chakras, each associated with specific physiological functions, endocrine glands, emotional states, psychological characteristics, and spiritual aspects of our being.",
             "Meridians (TCM) / Nadis (Yoga): An extensive network of subtle energy channels or pathways that distribute life force energy (Chi/Prana) throughout the body, connecting organs, chakras, and all parts of the being. They are analogous to, but distinct from, the circulatory or nervous system.",
             "The Healer as a Conduit or Facilitator: Many, if not most, energy healing modalities posit that the practitioner acts as a clear, attuned channel or facilitator for Universal Life Force Energy, divine healing intelligence, or specific healing frequencies, rather than using their own personal or depleted energy. The healing comes *through* the healer, not *from* them.",
             "Resonance and Entrainment: The principle that energy fields can influence each other. A healer can help a recipient's imbalanced energy field to resonate with a healthier, more coherent frequency, promoting balance through entrainment."
           ]},
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Diagram illustrating the flow of Chi/Prana through meridians/nadis in the human body', dataAiHint: 'energy flow meridians nadis' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/5/5d/Govern_Channel.jpg', alt: 'Diagram illustrating the flow of Chi/Prana through meridians/nadis in the human body', dataAiHint: 'energy flow meridians nadis' },
           { type: 'quote', text: "The physician of the future will give no medicine, but will interest his patient in the care of the human frame, in diet and in the cause and prevention of disease, and in the manipulation of the subtle energies of the body.", source: "Thomas Edison (adapted/paraphrased for energy healing context)" }
         ],
         deepDiveContext: "Energy healing operates on the core universal principle that imbalances, depletions, or blockages in the body's subtle energy systems (including the aura/biofield, chakras, and meridians/nadis) can adversely affect overall well-being on physical, emotional, mental, and spiritual levels. Understanding concepts like Life Force Energy (Chi/Prana/Ki), the multi-layered Human Energy Field, the function of chakras as energy centers, and the role of meridians/nadis as distribution pathways is foundational to these diverse holistic practices. Explore the scientific basis (e.g., biofield research) alongside traditional wisdom."
@@ -680,7 +680,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Chakra Balancing: Harmonizing the Body\'s Vortexes within Energy Healing',
         content: [
           { type: 'paragraph', text: "Chakras (a Sanskrit word meaning 'wheel,' 'disk,' or 'vortex') are vital, dynamic, spinning energy centers within the human subtle anatomy that receive, assimilate, and express life force energy (prana/chi). While numerous minor chakras exist, there are typically seven main chakras aligned along the central energy channel (Sushumna Nadi) of the body, from the base of thespine to the crown of the head. Each major chakra governs specific physical organs and systems, corresponds to particular endocrine glands, influences distinct emotional states and psychological functions, and is associated with unique spiritual aspects of our being and levels of consciousness." },
-          { type: 'image', src: 'https://placehold.co/450x550.png', alt: 'Clear, colorful diagram of the seven main chakras aligned on a human silhouette, with their correct colors, locations, Sanskrit names, and possibly associated symbols or lotus petals.', dataAiHint: 'chakra system diagram colors names' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/6/6c/12TreeGrid-Body12.jpg', alt: 'Clear, colorful diagram of the seven main chakras aligned on a human silhouette, with their correct colors, locations, Sanskrit names, and possibly associated symbols or lotus petals.', dataAiHint: 'chakra system diagram colors names' },
           { type: 'paragraph', text: "Chakra balancing is the practice of ensuring that these energy centers are clear of blockages, spinning at their optimal frequency and direction, and are in harmonious relationship with each other. Imbalances can manifest as chakras being underactive (deficient, closed), overactive (excessive, chaotic), or containing stagnant or distorted energy. Such imbalances can lead to physical, emotional, or mental health issues. The goal of chakra balancing is to restore a smooth, vibrant, and harmonious flow of energy throughout the entire chakra system." },
           { type: 'paragraph', text: "Techniques for chakra balancing are diverse and can be tailored to individual needs:"},
           { type: 'list', items: [
@@ -811,7 +811,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Crystalline Energies: Working with specific crystals believed to carry frequencies conducive to DNA activation.",
             "Intentional Living & High Vibrational States: Maintaining a state of love, joy, and gratitude, and consuming high-vibration foods."
           ]},
-          { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Collage of sound waves, light codes, and crystals relating to DNA activation', dataAiHint: 'dna activation tools' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/a/ac/15-DNA-Sun-Clock-24.jpg', alt: 'Collage of sound waves, light codes, and crystals relating to DNA activation', dataAiHint: 'dna activation tools' }
         ],
         deepDiveContext: "Explore the diverse methods and modalities proposed for DNA activation. These often include vibrational approaches like sound healing (solfeggio frequencies, light language), meditation on light codes and sacred geometry, specialized energy healing techniques, the use of crystals, and the power of focused intention and maintaining high-vibrational states of being. Assess the theoretical basis for these methods."
       },
@@ -820,7 +820,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Interplay between DNA Activation and Lightbody Development',
         content: [
           { type: 'paragraph', text: "DNA activation and Lightbody development are considered deeply interconnected processes. As the Lightbody becomes more activated and capable of holding higher frequencies of light, it is believed to create the energetic conditions necessary for dormant DNA codes to awaken. Conversely, as DNA activates, it enhances the body's capacity to build and sustain a more luminous and functional Lightbody. This creates a synergistic feedback loop, accelerating spiritual evolution." },
-          { type: 'image', src: 'https://placehold.co/550x400.png', alt: 'Diagram showing DNA strands intertwining with Lightbody structures', dataAiHint: 'dna lightbody synergy' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/0/04/16-DNA-Sun-Clock-30.jpg', alt: 'Diagram showing DNA strands intertwining with Lightbody structures', dataAiHint: 'dna lightbody synergy' }
         ],
         deepDiveContext: "The relationship between DNA activation and Lightbody development is often described as synergistic and reciprocal. A more developed Lightbody can facilitate DNA activation by holding higher frequencies, while activated DNA enhances the capacity to build and sustain a more potent Lightbody. Examine this interplay and its role in spiritual ascension."
       }
@@ -970,7 +970,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Modern Design: From graphic design layouts and typography to product design, the Golden Ratio is sometimes used as a guideline for balanced and visually appealing compositions.",
             "Music: Some composers are said to have structured musical pieces based on Fibonacci numbers or Golden Ratio proportions."
           ]},
-          { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/f6/330px-0_Marcus_Aurelius_-_Piazza_del_Campidoglio_%283%29.JPG', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
         ],
         deepDiveContext: "The Golden Ratio has been influential in art, architecture, and design, believed to contribute to aesthetic harmony and balance. Discuss its purported use in iconic structures like the Parthenon, Renaissance masterpieces (e.g., Leonardo da Vinci), and modern design principles. Explore the evidence and controversies surrounding its intentional application."
       }
@@ -1062,7 +1062,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Core Concepts of Quantum Mechanics',
             content: [
                 { type: 'paragraph', text: "Quantum mechanics, developed in the early 20th century, revolutionized our understanding of the physical world. Unlike classical physics, it describes energy and matter as quantized (existing in discrete units), exhibiting wave-particle duality (behaving as both waves and particles), and governed by probabilities rather than deterministic outcomes. Key principles include Heisenberg's Uncertainty Principle and quantum entanglement." },
-                { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Abstract visualization of quantum phenomena: wave-particle duality, atomic orbitals', dataAiHint: 'quantum physics abstract' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/6/68/375px-Caustiche.jpg', alt: 'Abstract visualization of quantum phenomena: wave-particle duality, atomic orbitals', dataAiHint: 'quantum physics abstract' }
             ],
             deepDiveContext: "Quantum mechanics is the fundamental theory of the micro-world. Explore its core tenets: quantization of energy, wave-particle duality, the probabilistic nature of quantum events, superposition, Heisenberg's Uncertainty Principle, and quantum entanglement. Differentiate it from classical physics."
         },
@@ -1212,7 +1212,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
   'physics': {
     slug: 'physics',
     title: 'Physics: Understanding the Universe',
-    introduction: 'A brief look at physics, the natural science that studies matter, its motion and behavior through space and time, and the related entities of energy and force. It is one ofthe most fundamental scientific disciplines, aiming to understand how the universe behaves.',
+    introduction: 'A brief look at physics, the natural science that studies matter, its motion and behavior through space and time, and the related entities of energy and force. It is one of the most fundamental scientific disciplines, aiming to understand how the universe behaves.',
     sections: [
       {
         id: 'what-is-physics',
@@ -1305,7 +1305,6 @@ export const glossaryData: Record<string, GlossaryPage> = {
       { title: 'Meditation', slug: 'meditation', category: 'Practices', icon: Brain }
     ]
   },
-  // Platonic Solids entry - ensuring it's as comprehensive as others if it's a navigable page
   'platonic-solids': {
     slug: 'platonic-solids',
     title: 'Platonic Solids: Archetypes of Creation',
@@ -1409,4 +1408,3 @@ export const GlobalNavLinks: RelatedTopic[] = [
 
 export const DefaultPageSlug = 'lightbody';
 
-    
