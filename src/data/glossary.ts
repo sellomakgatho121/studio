@@ -187,7 +187,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Sacred Art of Activating and Programming Your Merkaba',
         content: [
           { type: 'paragraph', text: "Merkaba activation is a sacred and transformative spiritual practice, typically achieved through specific, disciplined meditative techniques. These methods usually involve a sophisticated combination of precise, rhythmic breathwork (pranayama), focused, vivid visualizations of the geometric forms and light fields, specific mudras (symbolic hand gestures that direct energy flow), and a profoundly heart-centered intention, particularly the cultivation and radiation of unconditional love. Love is often described as the very fuel and guiding intelligence of the Merkaba." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Person engaged in deep Merkaba meditation with visualized rotating tetrahedrons, pranic tube, and sphere of light', dataAiHint: 'meditation merkaba activation sphere' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/b/b4/Krystal-Spiral.jpg', alt: 'Person engaged in deep Merkaba meditation with visualized rotating tetrahedrons, pranic tube, and sphere of light', dataAiHint: 'meditation merkaba activation sphere' },
           { type: 'paragraph', text: "One of the most widely known and taught methods is the 17-Breath Merkaba Meditation, often attributed to teachings revived by Drunvalo Melchizedek. This complex sequence involves a series of distinct breaths designed to systematically cleanse the pranic tube, energize the chakra system, build the surrounding sphere of prana, and then set the male and female tetrahedrons spinning at precise, harmonically related speeds. Other traditions and teachers may offer variations or different approaches, but common elements persist." },
           { type: 'list', items: [
               "Pranic Breathing Sequences: Consciously drawing life force energy (prana) through the pranic tube from both above and below, purifying and energizing the central channel.",
@@ -199,7 +199,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Maintaining Activation: Regular practice is usually required to maintain a strong, stable, and fully functional Merkaba field."
             ], ordered: false
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Close-up of hands in a specific mudra for Merkaba meditation', dataAiHint: 'mudra merkaba hands' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/e7/Peacemudra.jpg', alt: 'Close-up of hands in a specific mudra for Merkaba meditation', dataAiHint: 'mudra merkaba hands' },
           { type: 'quote', text: "The Merkaba is not merely a static geometric form to be visualized; it is a living, conscious, intelligent field of light that responds intimately and powerfully to your focused intent, your unconditional love, and your evolving level of spiritual awareness.", source: "Contemporary Merkaba Teacher & Esoteric Scholar" }
         ],
         deepDiveContext: "Techniques for Merkaba activation are precise and multifaceted, commonly including specific pranic breathing sequences (like the 17-breath method), vivid visualization of the star tetrahedron and surrounding sphere of light, particular mudras (hand positions), and a foundational state of heart-centered intention and unconditional love. Understanding the step-by-step process, the role of each component (breath, visualization, emotion), and the principles of programming the Merkaba for various purposes is crucial for practical application and experiencing its transformative potential."
@@ -209,7 +209,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Dance of Light: Dynamics of Merkaba Rotation and Frequencies',
         content: [
             { type: 'paragraph', text: "The counter-rotation of the two primary tetrahedrons within the Merkaba field is fundamental to its generation and function. The male tetrahedron (representing mind, intellect, and often visualized above or encompassing the upper body) is typically taught to spin to the left (counter-clockwise from its own internal perspective, or as if you are looking out from its center). The female tetrahedron (representing emotion, intuition, and encompassing the lower body) spins to the right (clockwise). These directions are critical for the correct flow and interaction of energies." },
-            { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Abstract representation of counter-rotating fields of light, showing energy vortex', dataAiHint: 'merkaba rotating fields vortex' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/8/85/Grid3.gif', alt: 'Abstract representation of counter-rotating fields of light, showing energy vortex', dataAiHint: 'merkaba rotating fields vortex' },
             { type: 'paragraph', text: "The speeds of rotation are not arbitrary but are often set at specific, harmonically significant ratios. For instance, in some teachings, the female (emotional) field is instructed to spin at 34 units of energy for every 21 units of energy of the male (mental) field – these numbers (21, 34) being consecutive numbers in the Fibonacci sequence, which is intimately related to the Golden Ratio (Phi). Other traditions might use slightly different ratios or speeds, but the principle of harmonic relationship is key. When these fields spin at the correct relative speeds and in perfect balance, they create the stable, resonant Merkaba field. This field can then be accelerated, with the ultimate goal often being to stabilize its rotational speed at nine-tenths the speed of light, which is said to enable interdimensional travel and other advanced capabilities." },
             { type: 'list', items: [
                 "Direction of Spin: Male tetrahedron (mind) typically counter-clockwise (left); Female tetrahedron (emotion) typically clockwise (right). Consistency is key.",
@@ -240,7 +240,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Environmental Harmonization: The resonant field of an activated Merkaba can positively influence the energetic quality of its immediate environment."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Person meditating with Merkaba, radiating light into the surrounding environment', dataAiHint: 'merkaba radiating light healing' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c8/Fields_of_Suns.jpg', alt: 'Person meditating with Merkaba, radiating light into the surrounding environment', dataAiHint: 'merkaba radiating light healing' },
           { type: 'paragraph', text: "Regular, dedicated practice and conscious, ethical use are essential to strengthen, refine, and master the Merkaba field, transforming it into an increasingly potent and reliable instrument for personal transformation, spiritual development, and compassionate service to all life." }
         ],
         deepDiveContext: "The practical applications of an activated and well-maintained Merkaba field are incredibly diverse and potent. These include advanced spiritual protection, profound healing capabilities (for self and others), accelerated manifestation, direct access to higher consciousness and wisdom, balancing of the entire energy system, interdimensional travel, and even planetary service. Explore specific examples and the underlying principles for each application."
@@ -398,7 +398,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Flower of Life: Genesis Pattern of the Universe',
         content: [
           { type: 'paragraph', text: "The Flower of Life is arguably one of the most ancient, mystically significant, visually captivating, and widely recognized sacred geometric symbols across diverse cultures and historical periods. It is elegantly composed of multiple evenly-spaced, overlapping circles of the exact same size, intricately arranged to form a flower-like pattern characterized by perfect six-fold symmetry, often contained within two larger concentric circles. This profound symbol has been discovered in numerous ancient sites worldwide, including the Temple of Osiris at Abydos in Egypt (etched with remarkable precision), as well as in India, China, Israel, Turkey, and throughout medieval Europe, underscoring its universal importance." },
-          { type: 'image', src: 'https://placehold.co/500x500.png', alt: 'Clear, precise diagram of the Flower of Life symbol, highlighting its overlapping circles and hexagonal symmetry', dataAiHint: 'flower life pattern symmetry' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/6/64/Krystal-Flower.png', alt: 'Clear, precise diagram of the Flower of Life symbol, highlighting its overlapping circles and hexagonal symmetry', dataAiHint: 'flower life pattern symmetry' },
           { type: 'paragraph', text: "The Flower of Life is revered as a visual representation of the interconnectedness of all life and spirit within the universe. It is believed to contain all the fundamental patterns of creation, depicting how all things emerged from the 'Great Void' or singular Source through a process of divine geometric unfolding. Within its intricate structure, other highly significant geometric forms can be discerned and derived, including the Seed of Life (formed by the first 7 circles, representing the seven days of creation or seven stages of manifestation), the Egg of Life (the basis for cellular division), the Fruit of Life (composed of 13 circles, which forms the blueprint for Metatron's Cube), and by connecting the centers of the Fruit of Life circles, the lines that delineate Metatron's Cube itself. It is considered a potent symbol of unity, cosmic harmony, the cyclical nature of life, death, and rebirth, and the infinite potential inherent in creation." },
           { type: 'list', items: [
               "Symbolizes the fundamental forms of space, time, and consciousness.",
@@ -417,7 +417,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: "Metatron's Cube: Vessel of Creation's Building Blocks",
         content: [
           { type: 'paragraph', text: "Metatron's Cube is a complex, multi-layered, and profoundly significant sacred geometric figure derived from the Fruit of Life pattern, which itself originates from the Flower of Life. It is meticulously formed by connecting the center of each of the 13 circles in the Fruit of Life pattern to the center of every other circle within that pattern using straight lines. This intricate network of lines and circles reveals all five Platonic Solids (Tetrahedron, Cube/Hexahedron, Octahedron, Icosahedron, Dodecahedron) hidden within its structure. These Platonic Solids are considered by many ancient traditions (notably Pythagorean and Platonic philosophy) to be the fundamental geometric building blocks of all matter, organic life, and the very structure of the universe." },
-          { type: 'image', src: 'https://placehold.co/550x550.png', alt: "Detailed Metatron's Cube symbol showing the 13 circles of the Fruit of Life and all intersecting lines, with the five Platonic Solids subtly highlighted or extractable from its geometry.", dataAiHint: 'metatron cube geometry solids' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/9b/ES-Foundations-Cube-Halo-380.png', alt: "Detailed Metatron's Cube symbol showing the 13 circles of the Fruit of Life and all intersecting lines, with the five Platonic Solids subtly highlighted or extractable from its geometry.", dataAiHint: 'metatron cube geometry solids' },
           { type: 'paragraph', text: "The symbol is named after the powerful Archangel Metatron, who, in various esoteric traditions (particularly Kabbalistic and some New Age systems), is regarded as the Scribe of God, the keeper of the Akashic Records, the celestial architect, and the angel who oversees the flow of divine energy and information throughout creation. Metatron's Cube is often employed as a potent spiritual tool for meditation, for balancing and clearing energy fields (personal and environmental), for spiritual protection against negative influences, for activating higher levels of consciousness, and for connecting with Archangel Metatron and higher divine guidance. Its remarkable ability to contain and demonstrate all five Platonic Solids makes it a powerful symbol of cosmic order, divine architecture, and the harmonious integration of all aspects of existence." },
           { type: 'list', items: [
             "Perfectly integrates masculine (straight lines, projective energy) and feminine (circles, receptive energy) principles.",
@@ -428,7 +428,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Can be used for focusing intention and amplifying manifestation.",
             "Helps to balance and align the chakra system and the Lightbody."
           ]},
-          { type: 'image', src: 'https://placehold.co/450x450.png', alt: 'Stylized representation of Archangel Metatron with the Cube', dataAiHint: 'archangel metatron cube' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/d/df/Michael-Metatron-Melchizedek.jpg', alt: 'Stylized representation of Archangel Metatron with the Cube', dataAiHint: 'archangel metatron cube' },
           { type: 'quote', text: "Metatron's Cube is the key to the universe's sacred library, holding the forms that sing all matter into existence.", source: "The Celestial Scribe" }
         ],
         deepDiveContext: "Metatron's Cube, derived from the Flower of Life's Fruit of Life pattern, is a potent and complex symbol in sacred geometry. It uniquely illustrates and contains all five Platonic Solids – considered the foundational building blocks of the material universe. It is widely used for energy work (clearing, protection, activation), meditation, accessing higher wisdom, and understanding the underlying geometric structure of reality. Explore its connection to Archangel Metatron and its practical applications."
@@ -438,7 +438,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Platonic Solids: Archetypal Forms of Creation',
         content: [
           { type: 'paragraph', text: "The five Platonic Solids are a unique and remarkable set of three-dimensional geometric forms that hold a special place in mathematics, philosophy, and esoteric traditions. They are the only convex polyhedra where all faces are congruent regular polygons (i.e., all faces are identical in size and shape, and are themselves regular polygons like triangles, squares, or pentagons), and the same number of faces meet at each vertex (corner point). Named after the ancient Greek philosopher Plato, who theorized extensively about them in his dialogue *Timaeus* and associated them with the classical elements (Earth, Water, Air, Fire, and Ether/Cosmos), these solids are considered by many to be the foundational geometric archetypes or building blocks of organic life, matter, and the energetic structure of the universe." },
-          { type: 'image', src: 'https://placehold.co/750x350.png', alt: 'The five Platonic Solids (Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron) displayed clearly, perhaps with their associated elemental symbols or colors.', dataAiHint: 'platonic solids shapes elements' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/9b/330px-Fac2Fig1.jpg', alt: 'The five Platonic Solids (Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron) displayed clearly, perhaps with their associated elemental symbols or colors.', dataAiHint: 'platonic solids shapes elements' },
           { type: 'list', items: [
               "Tetrahedron (4 triangular faces, 4 vertices, 6 edges): Associated with the element of Fire. Symbolizes energy, power, transformation, action, courage, and the spark of life. Corresponds to the Solar Plexus Chakra. Represents manifestation, stability, and the upward aspiration of spirit.",
               "Cube/Hexahedron (6 square faces, 8 vertices, 12 edges): Associated with the element of Earth. Symbolizes grounding, stability, structure, foundation, physical reality, and manifestation in the material world. Corresponds to the Root Chakra. Represents order and the material realm.",
@@ -447,7 +447,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Dodecahedron (12 pentagonal faces, 20 vertices, 30 edges): Associated with Spirit, Ether, Prana, or the Universe/Cosmos itself. Symbolizes divine connection, higher consciousness, universal wisdom, and the encompassing matrix of creation. Corresponds to the Third Eye and Crown Chakras. Represents the totality of existence and divine order."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Human figure meditating with Platonic solids floating around, connecting to chakras', dataAiHint: 'platonic solids chakras meditation' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/PlatonicSolidsHomeSlide.jpg', alt: 'Human figure meditating with Platonic solids floating around, connecting to chakras', dataAiHint: 'platonic solids chakras meditation' },
           { type: 'paragraph', text: "Meditating with, visualizing, holding, or building these forms can help individuals align their own energies with the specific elemental, spiritual, and psychological qualities that each solid embodies, promoting balance, healing, and expanded awareness." }
         ],
         deepDiveContext: "The Platonic Solids are five unique, perfectly symmetrical three-dimensional geometric shapes (Tetrahedron, Cube, Octahedron, Icosahedron, Dodecahedron), each representing specific classical elements, chakras, energetic qualities, and aspects of creation. They are considered the archetypal building blocks of the material universe and are extensively used in healing, meditation, energy work, and understanding fundamental energetic principles. Explore their individual properties and interrelationships."
@@ -468,7 +468,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
                 "Fibonacci Sequence (0, 1, 1, 2, 3, 5, 8, 13...): A series of numbers where each number is the sum of the two preceding ones. The ratio of successive Fibonacci numbers approximates the Golden Ratio. This sequence appears ubiquitously in natural growth patterns, demonstrating universal design principles.",
                 "Spiral (Logarithmic, Golden, Fibonacci): Represents evolution, growth, expansion, cyclical movement, and the journey from the inner self to the outer world and back. Found in galaxies, shells, DNA, and plant growth."
             ]},
-            { type: 'image', src: 'https://ascensionglossary.com/images/1/16/360px-Fibonacci_spiral_34.svg.png', alt: 'Artistic collage showcasing Vesica Piscis, Torus, Sri Yantra, and a Fibonacci spiral in nature', dataAiHint: 'vesica piscis torus yantra fibonacci' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/c/cd/Fibonaccispiral.jpg', alt: 'Artistic collage showcasing Vesica Piscis, Torus, Sri Yantra, and a Fibonacci spiral in nature', dataAiHint: 'vesica piscis torus yantra fibonacci' },
             { type: 'quote', text: "Every line, every curve, every intersection in sacred geometry whispers a secret of the universe, waiting for the attuned heart to listen.", source: "The Geometer's Path" }
         ],
         deepDiveContext: "Numerous other geometric forms like the Seed of Life, Egg of Life, Fruit of Life, Vesica Piscis, the Torus yantra, and the Sri Yantra, along with fundamental mathematical principles such as the Golden Ratio (Phi) and the Fibonacci Sequence, hold profound meaning and practical application in the study and use of sacred geometry. These forms and ratios reveal deeper layers of universal design, energy flow, and consciousness. Explore their individual symbolism and interconnections."
@@ -704,7 +704,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Luminous Aura: Understanding the Human Energy Field (HEF)',
         content: [
           { type: 'paragraph', text: "The Human Energy Field (HEF), often referred to as the aura, is a luminous, multi-layered, and dynamic field of subtle energy that surrounds, interpenetrates, and extends outwards from the physical body. It is composed of various types of subtle energies (bio-electromagnetic, etheric, astral, etc.) and is believed to be an energetic blueprint or template that reflects, and also influences, our physical health, emotional states, mental patterns, personality traits, and spiritual development. The aura is not static but changes constantly based on our thoughts, feelings, health, and interactions with the environment." },
-          { type: 'image', src: 'https://placehold.co/500x400.png', alt: 'Illustration of a human figure with multiple, distinct, colored layers of the aura clearly depicted, showing their relative positions and extension from the body.', dataAiHint: 'aura layers colors human' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/3/38/Energeticself2.png', alt: 'Illustration of a human figure with multiple, distinct, colored layers of the aura clearly depicted, showing their relative positions and extension from the body.', dataAiHint: 'aura layers colors human' },
           { type: 'paragraph', text: "The aura is generally understood to have several distinct, interpenetrating layers or 'bodies,' each with its own characteristic frequency, function, and range of expression. While different systems may vary in terminology and number of layers, a common model includes:" },
           { type: 'list', items: [
             "Etheric Body (Etheric Double): The innermost layer, closest to the physical body (extending about 1/4 to 2 inches). It is a direct energetic template of the physical body, vitalizing it and connecting it to higher energy fields. Associated with physical sensations, vitality, and autonomic functions. Its color is often seen as a pale blue or grey.",
@@ -725,7 +725,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'A Spectrum of Healing: Exploring Other Notable Energy Healing Modalities',
         content: [
           { type: 'paragraph', text: "Beyond the widely recognized practices of Reiki and general chakra balancing, a diverse and rich spectrum of other specialized energy healing modalities exists, each offering unique philosophical frameworks, diagnostic approaches, and therapeutic techniques to promote health, restore balance, and facilitate spiritual growth:" },
-          { type: 'image', src: 'https://placehold.co/650x420.png', alt: 'A vibrant collage representing various energy healing modalities: crystals arranged in a grid, tuning forks emitting sound waves, hands performing tapping on meridian points, shamanic symbols like a feather or drum, light language script.', dataAiHint: 'healing modalities collage diverse' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/9c/Drum_vibration_mode21.gif', alt: 'A vibrant collage representing various energy healing modalities: crystals arranged in a grid, tuning forks emitting sound waves, hands performing tapping on meridian points, shamanic symbols like a feather or drum, light language script.', dataAiHint: 'healing modalities collage diverse' },
           { type: 'list', items: [
               "Pranic Healing (Developed by GrandMaster Choa Kok Sui): A comprehensive, no-touch system of energy medicine that utilizes prana (life energy or ki) to cleanse, energize, and balance the body's bio-electromagnetic field (aura) and energy centers (chakras). Involves systematic techniques like scanning (assessing the energy field), cleansing (removing diseased or stagnant energy), and energizing (projecting fresh prana into specific chakras and affected areas).",
               "Crystal Healing & Gemstone Therapy: Employs the specific, stable, and coherent vibrational frequencies and unique geometric structures of natural crystals and gemstones to clear energetic blockages, absorb and transmute negative or discordant energies, amplify healing intentions, and bring the body's energy systems into balance. Crystals are often placed on or around the body, on chakras, or arranged in specific geometric grids.",
@@ -748,7 +748,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Reaping the Rewards: Benefits and Important Considerations of Energy Healing',
         content: [
             { type: 'paragraph', text: "Energy healing, when practiced ethically and competently, can offer a multitude of significant benefits for physical health, emotional well-being, mental clarity, and spiritual growth:" },
-            { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Person looking peaceful and vibrant, with subtle light radiating, symbolizing holistic well-being', dataAiHint: 'holistic well being peace' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/6/6e/Awakened.jpg', alt: 'Person looking peaceful and vibrant, with subtle light radiating, symbolizing holistic well-being', dataAiHint: 'holistic well being peace' },
             { type: 'list', items: [
                 "Profound Stress Reduction and Deep Relaxation: Calms the nervous system, reduces anxiety, and induces a state of peace.",
                 "Effective Pain Management and Relief: Can alleviate acute and chronic pain by clearing energetic blockages and promoting natural healing.",
@@ -852,7 +852,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Muladhara: The Root Chakra - Foundation and Grounding',
         content: [
           { type: 'paragraph', text: "Location: Base of the spine (perineum). Color: Red. Element: Earth. Bija Mantra: LAM. Function: Governs our sense of security, survival instincts, grounding, stability, physical vitality, and connection to the material world. Relates to basic needs, family, and community. Physical Association: Adrenal glands, bones, legs, feet, large intestine. Imbalances can manifest as fear, insecurity, financial instability, restlessness, or physical issues like lower back pain or constipation." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Root Chakra (Muladhara) - four-petaled lotus, often red', dataAiHint: 'root chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c1/Redcube.jpg', alt: 'Symbol of the Root Chakra (Muladhara) - four-petaled lotus, often red', dataAiHint: 'root chakra symbol' }
         ],
         deepDiveContext: "The Root Chakra (Muladhara), located at the base of the spine, is associated with the color red, the element Earth, and the bija mantra LAM. It governs survival, security, grounding, and physical vitality. Explore its physical connections (adrenals, bones), signs of imbalance (fear, instability), and methods for balancing (grounding exercises, red color therapy, specific yoga poses)."
       },
@@ -879,7 +879,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Anahata: The Heart Chakra - Love and Compassion',
         content: [
           { type: 'paragraph', text: "Location: Center of the chest. Color: Green (secondary color Pink). Element: Air. Bija Mantra: YAM. Function: Center for love, compassion, empathy, forgiveness, relationships, and emotional balance. It bridges the lower (physical) and upper (spiritual) chakras. Physical Association: Thymus gland, heart, lungs, circulatory system, arms, hands. Imbalances can result in difficulty giving or receiving love, grief, jealousy, bitterness, or physical issues like heart or lung problems." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Heart Chakra (Anahata) - twelve-petaled lotus, often green or pink', dataAiHint: 'heart chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/f1/Emerald_Heart_&_Rose_Connection.jpg', alt: 'Symbol of the Heart Chakra (Anahata) - twelve-petaled lotus, often green or pink', dataAiHint: 'heart chakra symbol' }
         ],
         deepDiveContext: "The Heart Chakra (Anahata), at the center of the chest, is associated with green/pink, the element Air, and the mantra YAM. It governs love, compassion, and relationships. Explore its connection to the thymus, heart, lungs, signs of imbalance (relationship difficulties, lack of empathy), and balancing techniques (loving-kindness meditation, green/pink colors, heart-opening yoga poses)."
       },
@@ -897,7 +897,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Ajna: The Third Eye Chakra - Intuition and Wisdom',
         content: [
           { type: 'paragraph', text: "Location: Center of the forehead, between the eyebrows. Color: Indigo (deep blue or purple). Element: Light (or beyond elements). Bija Mantra: OM (or AUM). Function: Center of intuition, insight, wisdom, imagination, clairvoyance, psychic abilities, and spiritual awareness. Governs perception beyond the ordinary senses. Physical Association: Pineal gland, eyes, brain, pituitary gland (sometimes associated). Imbalances can lead to lack of clarity, poor intuition, cynicism, headaches, or vision problems." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Third Eye Chakra (Ajna) - two-petaled lotus, often indigo', dataAiHint: 'third eye chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/f0/3rdeyeopen.jpg', alt: 'Symbol of the Third Eye Chakra (Ajna) - two-petaled lotus, often indigo', dataAiHint: 'third eye chakra symbol' }
         ],
         deepDiveContext: "The Third Eye Chakra (Ajna), in the center of the forehead, resonates with indigo, the element Light, and the mantra OM. It is the seat of intuition, wisdom, and psychic perception. Explore its connection to the pineal gland, signs of imbalance (lack of intuition, confusion), and methods for activation (meditation, visualization, indigo color)."
       },
@@ -906,7 +906,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Sahasrara: The Crown Chakra - Spirituality and Connection',
         content: [
           { type: 'paragraph', text: "Location: Top of the head. Color: Violet, White, or Gold. Element: Consciousness/Thought (or beyond elements). Bija Mantra: OM (often silent or a subtle hum). Function: Center of spirituality, enlightenment, divine connection, unity consciousness, and transcendence. It is our gateway to the higher self and the universe. Physical Association: Pituitary gland, pineal gland (sometimes associated), cerebral cortex, central nervous system. Imbalances can result in feelings of disconnection, spiritual cynicism, confusion, or a lack of purpose." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Crown Chakra (Sahasrara) - thousand-petaled lotus, often violet or white', dataAiHint: 'crown chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/9/9c/Lotusfired.jpg', alt: 'Symbol of the Crown Chakra (Sahasrara) - thousand-petaled lotus, often violet or white', dataAiHint: 'crown chakra symbol' }
         ],
         deepDiveContext: "The Crown Chakra (Sahasrara), at the top of the head, is associated with violet/white/gold, the element Consciousness, and often a silent OM. It represents spirituality, enlightenment, and connection to the Divine. Discuss its link to the pituitary/pineal glands, signs of imbalance (spiritual disconnection, cynicism), and activation techniques (meditation, prayer, violet/white light visualization)."
       },
@@ -915,7 +915,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Techniques for Chakra Balancing and Activation',
         content: [
           { type: 'paragraph', text: "Various practices can help to cleanse, balance, and activate the chakras, promoting overall well-being. These include meditation, visualization (specific colors, symbols), sound therapy (bija mantras, singing bowls, tuning forks), crystal healing, aromatherapy, yoga asanas, breathwork (pranayama), color therapy, and specific energy healing modalities like Reiki or Pranic Healing. Regular attention to chakra health is considered vital for a balanced and vibrant life." },
-          { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Collage of chakra balancing tools: crystals, singing bowl, yoga pose, colored lights', dataAiHint: 'chakra balancing methods' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/ef/GalacticChakraactivation8-9D.jpg', alt: 'Collage of chakra balancing tools: crystals, singing bowl, yoga pose, colored lights', dataAiHint: 'chakra balancing methods' }
         ],
         deepDiveContext: "Explore a comprehensive range of techniques used for chakra balancing and activation. This includes meditation specific to each chakra, visualization of colors and symbols, sound therapy (bija mantras, singing bowls), crystal healing (placing specific stones), aromatherapy, targeted yoga postures (asanas), conscious breathwork (pranayama), color therapy, and direct energy healing methods. Discuss how these practices contribute to holistic well-being."
       }
@@ -955,7 +955,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Human Body: Some proponents claim Golden Ratio proportions can be found in the human body (e.g., ratios of limb segments, facial features), though this is sometimes debated in scientific literature.",
             "DNA Structure: Some research suggests Golden Ratio relationships within the geometry of the DNA molecule."
           ]},
-          { type: 'image', src: 'https://placehold.co/500x400.png', alt: 'Collage of natural items showing Golden Ratio: sunflower, shell, fern', dataAiHint: 'golden ratio nature examples' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/cd/Fibonaccispiral.jpg', alt: 'Collage of natural items showing Golden Ratio: sunflower, shell, fern', dataAiHint: 'golden ratio nature examples' }
         ],
         deepDiveContext: "The Golden Ratio and Fibonacci sequence appear remarkably often in natural phenomena, from the arrangement of leaves and seeds (phyllotaxis) and the spiral growth of shells to the number of petals in flowers and even proposed proportions in the human body and DNA. Explore these examples and the reasons for their prevalence (e.g., efficiency, optimal growth)."
       },
@@ -970,7 +970,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Modern Design: From graphic design layouts and typography to product design, the Golden Ratio is sometimes used as a guideline for balanced and visually appealing compositions.",
             "Music: Some composers are said to have structured musical pieces based on Fibonacci numbers or Golden Ratio proportions."
           ]},
-          { type: 'image', src: 'https://ascensionglossary.com/images/f/f6/330px-0_Marcus_Aurelius_-_Piazza_del_Campidoglio_%283%29.JPG', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/f/f6/330px-0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(3).JPG', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
         ],
         deepDiveContext: "The Golden Ratio has been influential in art, architecture, and design, believed to contribute to aesthetic harmony and balance. Discuss its purported use in iconic structures like the Parthenon, Renaissance masterpieces (e.g., Leonardo da Vinci), and modern design principles. Explore the evidence and controversies surrounding its intentional application."
       }
@@ -991,7 +991,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'What is the Fibonacci Sequence?',
         content: [
           { type: 'paragraph', text: "The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. So, the sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on. It's named after Leonardo of Pisa, later known as Fibonacci, who introduced the sequence to Western European mathematics in his 1202 book 'Liber Abaci', although it had been described earlier in Indian mathematics." },
-          { type: 'image', src: 'https://placehold.co/500x300.png', alt: 'Visual representation of the Fibonacci sequence numbers', dataAiHint: 'fibonacci numbers sequence' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/8/8a/Fibonacci-55.jpg', alt: 'Visual representation of the Fibonacci sequence numbers', dataAiHint: 'fibonacci numbers sequence' }
         ],
         deepDiveContext: "The Fibonacci sequence is a series where each term is the sum of the two preceding terms (0, 1, 1, 2, 3, 5...). Explore its mathematical definition, historical origins (Fibonacci, Indian mathematics), and basic properties. Discuss how it's generated and its recursive nature."
       },
@@ -1121,7 +1121,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Understanding Meditation',
         content: [
           { type: 'paragraph', text: "Meditation is a practice where an individual uses a technique – such as mindfulness, or focusing the mind on a particular object, thought, or activity – to train attention and awareness, and achieve a mentally clear and emotionally calm and stable state. It has been practiced for centuries in various cultures and spiritual traditions." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Person meditating peacefully in a serene setting', dataAiHint: 'meditation peaceful serene' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/0/0c/Innerbuddha.jpg', alt: 'Person meditating peacefully in a serene setting', dataAiHint: 'meditation peaceful serene' }
         ],
         deepDiveContext: "Meditation involves techniques to train attention and awareness, aiming for mental clarity and emotional calm. Explore its historical roots across cultures, its core purpose, and the distinction between meditation as a practice versus a specific state of mind. Discuss the general goals, such as stress reduction, self-awareness, or spiritual insight."
       },
@@ -1315,7 +1315,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Defining the Platonic Solids',
             content: [
                 { type: 'paragraph', text: "The Platonic Solids are a unique set of five convex polyhedra, distinguished by the fact that all their faces are identical (congruent) regular polygons, and the same number of faces meet at each vertex (corner). These are the tetrahedron (4 triangular faces), the cube or hexahedron (6 square faces), the octahedron (8 triangular faces), the dodecahedron (12 pentagonal faces), and the icosahedron (20 triangular faces). They were extensively discussed by the ancient Greek philosopher Plato in his dialogue *Timaeus*, where he linked them to the classical elements." },
-                { type: 'image', src: 'https://placehold.co/700x400.png', alt: 'The five Platonic Solids clearly displayed with their names', dataAiHint: 'platonic solids shapes names' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/PlatonicSolidsHomeSlide.jpg', alt: 'The five Platonic Solids clearly displayed with their names', dataAiHint: 'platonic solids shapes names' }
             ],
             deepDiveContext: "The Platonic Solids are five unique polyhedra with congruent regular polygonal faces and identical vertices. Define their geometric properties, list them (Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron), and discuss their historical significance, particularly their association with Plato and the classical elements."
         },
@@ -1333,7 +1333,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Cube (Hexahedron): Element of Earth',
             content: [
                 { type: 'paragraph', text: "The Cube or Hexahedron, with 6 square faces, is the most stable of the solids, symbolizing the element of Earth. It represents grounding, stability, structure, foundation, physical reality, and manifestation in the material world. Associated with the Root Chakra (Muladhara), it embodies order, solidity, and the material realm. Its form suggests stillness and permanence." },
-                { type: 'image', src: 'https://placehold.co/400x300.png', alt: 'Cube shape with earth element symbol', dataAiHint: 'cube earth element' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/c/c1/Redcube.jpg', alt: 'Cube shape with earth element symbol', dataAiHint: 'cube earth element' }
             ],
             deepDiveContext: "Explore the Cube/Hexahedron: 6 square faces, association with Earth, Root Chakra. Discuss its symbolism for grounding, stability, structure, and the material world. How does its form relate to these qualities?"
         },
