@@ -119,38 +119,3 @@
 .animate-fadeIn {
   animation: fadeIn 0.5s ease-out forwards;
 }
-
-/* Animation for fluid title entry */
-@keyframes titleFluidEntry {
-  from {
-    opacity: 0;
-    transform: translateY(15px) scale(0.98);
-    text-shadow: none;
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0) scale(1);
-    /* A very subtle initial glow, mostly for a smooth transition to hover/timed glow */
-    text-shadow: 0 0 3px hsl(var(--accent)/0.2);
-  }
-}
-.animate-titleFluidEntry {
-  animation: titleFluidEntry 0.7s ease-out forwards;
-}
-
-/* Animation for the timed glow effect (after 5 seconds) */
-@keyframes timedTitleGlow {
-  /* Starts from the subtle glow potentially set by titleFluidEntry or default state */
-  from {
-     /* Ensures it starts from a known state if titleFluidEntry hasn't finished or isn't applied */
-    text-shadow: 0 0 3px hsl(var(--accent)/0.2);
-  }
-  to {
-    /* This is the target glow state */
-    text-shadow: 0 0 8px hsl(var(--accent)/0.7), 0 0 12px hsl(var(--accent)/0.5), 0 0 16px hsl(var(--accent)/0.3);
-  }
-}
-.animate-timedTitleGlow {
-  /* This class will be added to the h1. The animation starts after a delay. */
-  animation: timedTitleGlow 1.2s ease-in-out 5s forwards; /* Glow animation lasts 1.2s, starts after 5s delay, stays at end state */
-}
