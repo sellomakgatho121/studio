@@ -448,7 +448,8 @@ export const glossaryData: Record<string, GlossaryPage> = {
             ]
           },
           { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/Sun-Platonic-Solids.jpg', alt: 'Human figure meditating with Platonic solids floating around, connecting to chakras', dataAiHint: 'platonic solids chakras meditation' },
-          { type: 'paragraph', text: "Meditating with, visualizing, holding, or building these forms can help individuals align their own energies with the specific elemental, spiritual, and psychological qualities that each solid embodies, promoting balance, healing, and expanded awareness." }
+          { type: 'paragraph', text: "Meditating with, visualizing, holding, or building these forms can help individuals align their own energies with the specific elemental, spiritual, and psychological qualities that each solid embodies, promoting balance, healing, and expanded awareness." },
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/ca/Rebirthofmetatron_2022-06-18.jpg', alt: 'Metatron\'s Cube symbol, linking to further details', dataAiHint: 'metatron cube symbol' }
         ],
         deepDiveContext: "The Platonic Solids are five unique, perfectly symmetrical three-dimensional geometric shapes (Tetrahedron, Cube, Octahedron, Icosahedron, Dodecahedron), each representing specific classical elements, chakras, energetic qualities, and aspects of creation. They are considered the archetypal building blocks of the material universe and are extensively used in healing, meditation, energy work, and understanding fundamental energetic principles. Explore their individual properties and interrelationships."
       },
@@ -670,7 +671,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Reiki 'attunements' (initiation ceremonies) are given by a qualified Reiki Master/Teacher to enable a student to channel Reiki energy for themselves and others. Different levels of attunement (e.g., Level I, II, Master) confer different abilities and responsibilities."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Symbols used in some Reiki traditions (e.g., Cho Ku Rei), subtly displayed', dataAiHint: 'reiki symbols energy' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/1/1f/Rftherbshield.jpg', alt: 'Symbols used in some Reiki traditions (e.g., Cho Ku Rei), subtly displayed', dataAiHint: 'reiki symbols energy' },
           { type: 'quote', text: "Reiki is unconditional love in its purest form, flowing as intelligent energy to bring wholeness, balance, and profound peace to all aspects of being.", source: "Hawayo Takata (Grand Master who brought Reiki to the West) & Modern Reiki Masters (Synthesized)" }
         ],
         deepDiveContext: "Reiki is a widely practiced, accessible, and gentle yet powerful energy healing modality originating from Japan, involving the channeling of Universal Life Force Energy (Ki) for holistic healing. It is renowned for its ability to promote deep relaxation, reduce stress, alleviate pain, and support the body's natural healing processes on physical, emotional, mental, and spiritual levels. Explore its history (Mikao Usui), different schools/lineages, the attunement process, hand positions, symbols (in some traditions), and its application for self-healing and treating others, including distance healing."
@@ -1378,7 +1379,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Metatron\'s Cube: Containing the Solids',
             content: [
                 { type: 'paragraph', text: "As explored in detail on its own page, Metatron's Cube is derived from the Flower of Life and uniquely contains all five Platonic Solids within its geometry, highlighting their foundational role in creation. This makes Metatron's Cube a powerful symbol for understanding the interconnectedness of these primary forms." },
-                { type: 'image', src: 'https://ascensionglossary.com/images/9/9b/ES-Foundations-Cube-Halo-380.png', alt: 'Metatron\'s Cube symbol, linking to further details', dataAiHint: 'metatron cube symbol' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/c/ca/Rebirthofmetatron_2022-06-18.jpg', alt: 'Metatron\'s Cube symbol, linking to further details', dataAiHint: 'metatron cube symbol' }
             ],
             deepDiveContext: "Metatron's Cube is a significant sacred geometry symbol that contains all five Platonic Solids. Briefly explain this relationship and how it emphasizes the fundamental nature of the solids as building blocks of the universe. Guide users to the main Metatron's Cube section for more details."
         }
@@ -1416,5 +1417,3 @@ export const GlobalNavLinks: RelatedTopic[] = [
 ];
 
 export const DefaultPageSlug = 'lightbody';
-
-
