@@ -447,7 +447,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Dodecahedron (12 pentagonal faces, 20 vertices, 30 edges): Associated with Spirit, Ether, Prana, or the Universe/Cosmos itself. Symbolizes divine connection, higher consciousness, universal wisdom, and the encompassing matrix of creation. Corresponds to the Third Eye and Crown Chakras. Represents the totality of existence and divine order."
             ]
           },
-          { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/PlatonicSolidsHomeSlide.jpg', alt: 'Human figure meditating with Platonic solids floating around, connecting to chakras', dataAiHint: 'platonic solids chakras meditation' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/Sun-Platonic-Solids.jpg', alt: 'Human figure meditating with Platonic solids floating around, connecting to chakras', dataAiHint: 'platonic solids chakras meditation' },
           { type: 'paragraph', text: "Meditating with, visualizing, holding, or building these forms can help individuals align their own energies with the specific elemental, spiritual, and psychological qualities that each solid embodies, promoting balance, healing, and expanded awareness." }
         ],
         deepDiveContext: "The Platonic Solids are five unique, perfectly symmetrical three-dimensional geometric shapes (Tetrahedron, Cube, Octahedron, Icosahedron, Dodecahedron), each representing specific classical elements, chakras, energetic qualities, and aspects of creation. They are considered the archetypal building blocks of the material universe and are extensively used in healing, meditation, energy work, and understanding fundamental energetic principles. Explore their individual properties and interrelationships."
@@ -500,7 +500,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
       { title: 'Merkaba Mechanics', slug: 'merkaba-mechanics', category: 'Core Concepts', icon: Sparkles },
       { title: 'The Lightbody', slug: 'lightbody', category: 'Core Concepts', icon: Sun },
       { title: 'Consciousness Studies', slug: 'consciousness-studies', category: 'Related Fields', icon: Brain },
-      { title: 'Platonic Solids', slug: 'platonic-solids', category: 'Sacred Geometry', icon: Gem }, 
+      { title: 'Platonic Solids', slug: 'platonic-solids', category: 'Sacred Geometry', icon: Gem },
       { title: 'Golden Ratio', slug: 'golden-ratio', category: 'Mathematical Principles', icon: BarChart3 }
     ]
   },
@@ -715,7 +715,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Celestial Body (Buddhic Body): The sixth layer, associated with spiritual ecstasy, unconditional love, enlightenment, and connection to the divine, angelic realms, and ascended masters. Appears as shimmering, opalescent light.",
             "Ketheric Template Body (Causal Body / Atmic Body): The outermost layer, representing the individual's connection to Source/God, soul memories, past lives, and the overall divine plan for the soul. It is the template for all other layers and holds the highest spiritual frequencies. Often seen as brilliant golden or white light."
           ]},
-          { type: 'image', src: 'https://placehold.co/400x500.png', alt: 'Close-up abstract view of auric layers showing flowing energies and colors', dataAiHint: 'aura energy flow abstract' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/3/38/Energeticself2.png', alt: 'Close-up abstract view of auric layers showing flowing energies and colors', dataAiHint: 'aura energy flow abstract' },
           { type: 'paragraph', text: "Energy healing practices often involve techniques for cleansing, repairing, strengthening, and balancing the aura and its various layers to promote overall health, protect against negative influences, and enhance spiritual connection. Disruptions, 'holes,' or weaknesses in the aura can lead to energy leakage, fatigue, and increased vulnerability to external energetic or emotional influences."}
         ],
         deepDiveContext: "The Human Energy Field (HEF) or aura is a complex, multi-layered energetic system or biofield that surrounds and interpenetrates the physical body, reflecting and influencing our holistic well-being. Understanding its distinct layers (e.g., Etheric, Emotional, Mental, Astral, Etheric Template, Celestial, Ketheric/Causal), their specific functions, colors, and vibrational characteristics is important in many energy healing practices aimed at cleansing, repairing, balancing, and strengthening this vital field for health, protection, and spiritual development."
@@ -1030,7 +1030,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Cracks (e.g., drying mud, ceramic glazes)",
             "Stripes and Spots (e.g., animal camouflage and signaling)"
           ]},
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Collage of diverse nature patterns: spirals, fractals, symmetries', dataAiHint: 'nature patterns collage' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/5/53/Gianttimematrix_144.jpg', alt: 'Collage of diverse nature patterns: spirals, fractals, symmetries', dataAiHint: 'nature patterns collage' }
         ],
         deepDiveContext: "Nature exhibits a stunning array of recurring patterns, including spirals, fractals, symmetries (bilateral, radial), tessellations, waves, cracks, stripes, and spots. Explore these different types of patterns with specific examples from the plant, animal, and mineral kingdoms, as well as geological and astronomical formations. Discuss the visual characteristics of each."
       },
@@ -1199,7 +1199,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Defining Biology',
         content: [
           { type: 'paragraph', text: "Biology is the scientific study of life. It is a vast and diverse field that examines living organisms at various scales, from the molecular level (e.g., DNA, proteins) to cells, tissues, organs, individual organisms, populations, communities, ecosystems, and the entire biosphere. Key unifying concepts in biology include cell theory, evolution by natural selection, genetics, homeostasis, and energy." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Collage of biological images: DNA strand, cell, plant, animal, ecosystem', dataAiHint: 'biology collage life' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/a/ad/Dnastructure.jpg', alt: 'Collage of biological images: DNA strand, cell, plant, animal, ecosystem', dataAiHint: 'biology collage life' }
         ],
         deepDiveContext: "Biology is the science of life, studying organisms from molecular to ecosystem levels. Explore its main branches (e.g., molecular biology, genetics, ecology, physiology), core principles (cell theory, evolution, homeostasis), and the scientific method as applied to biological inquiry."
       }
@@ -1256,7 +1256,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Sitali (Cooling Breath): Inhaling through a curled tongue, cooling the body and mind.",
             "Brahmari (Bee Breath): Exhaling with a humming sound, calming and soothing for the mind."
           ]},
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Illustrations or symbols for different pranayama techniques', dataAiHint: 'pranayama techniques symbols' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/e7/Peacemudra.jpg', alt: 'Illustrations or symbols for different pranayama techniques', dataAiHint: 'pranayama techniques symbols' }
         ],
         deepDiveContext: "Explore various pranayama techniques like Nadi Shodhana (Alternate Nostril), Kapalabhati (Skull Shining), Bhastrika (Bellows), Ujjayi (Victorious), Sitali/Sitkari (Cooling), and Brahmari (Bee). Describe the method, specific benefits, and any contraindications for each technique. Emphasize the importance of proper guidance."
       }
@@ -1277,7 +1277,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Principles of Sound Healing',
         content: [
           { type: 'paragraph', text: "Sound Therapy, also known as vibrational medicine, is based on the principle that all matter, including the human body, vibrates at specific frequencies. When an organ or part of the body is vibrating out of harmony, it can lead to dis-ease. Sound healing uses therapeutic sound frequencies and resonance to restore balance and harmony to the body's energetic and physical systems. It can reduce stress, alleviate pain, balance chakras, and induce deep states of relaxation and meditation." },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Person experiencing sound healing with singing bowls or tuning forks', dataAiHint: 'sound healing bowls forks' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c8/TuningForks.jpg', alt: 'Person experiencing sound healing with singing bowls or tuning forks', dataAiHint: 'sound healing bowls forks' }
         ],
         deepDiveContext: "Sound therapy uses the principle of resonance and vibration to promote healing. Explore how sound frequencies can affect the body at a cellular level, influence brainwave states, and restore energetic balance. Discuss concepts like sympathetic resonance, cymatics (visible sound), and the historical use of sound in healing traditions."
       },
@@ -1294,7 +1294,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Drumming: Rhythmic drumming can induce trance states, release emotional blockages, and connect with primal energies.",
             "Music Therapy: Using specifically composed or chosen music to evoke emotional responses, reduce stress, or aid in cognitive function."
           ]},
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Collage of sound healing instruments: singing bowl, tuning fork, gong, drum', dataAiHint: 'sound healing instruments collage' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/c/c8/TuningForks.jpg', alt: 'Collage of sound healing instruments: singing bowl, tuning fork, gong, drum', dataAiHint: 'sound healing instruments collage' }
         ],
         deepDiveContext: "Explore the various tools and techniques used in sound therapy: singing bowls (crystal, Tibetan), tuning forks (weighted, unweighted, specific frequencies like Solfeggio), gongs, drums, rattles, didgeridoos, and the human voice (chanting, toning, mantras, light language). Describe how each instrument/technique is used and its specific therapeutic effects."
       }
@@ -1315,7 +1315,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Defining the Platonic Solids',
             content: [
                 { type: 'paragraph', text: "The Platonic Solids are a unique set of five convex polyhedra, distinguished by the fact that all their faces are identical (congruent) regular polygons, and the same number of faces meet at each vertex (corner). These are the tetrahedron (4 triangular faces), the cube or hexahedron (6 square faces), the octahedron (8 triangular faces), the dodecahedron (12 pentagonal faces), and the icosahedron (20 triangular faces). They were extensively discussed by the ancient Greek philosopher Plato in his dialogue *Timaeus*, where he linked them to the classical elements." },
-                { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/PlatonicSolidsHomeSlide.jpg', alt: 'The five Platonic Solids clearly displayed with their names', dataAiHint: 'platonic solids shapes names' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/2/2d/Sun-Platonic-Solids.jpg', alt: 'The five Platonic Solids clearly displayed with their names', dataAiHint: 'platonic solids shapes names' }
             ],
             deepDiveContext: "The Platonic Solids are five unique polyhedra with congruent regular polygonal faces and identical vertices. Define their geometric properties, list them (Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron), and discuss their historical significance, particularly their association with Plato and the classical elements."
         },
@@ -1324,7 +1324,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Tetrahedron: Element of Fire',
             content: [
                 { type: 'paragraph', text: "The Tetrahedron, with its 4 triangular faces, is sharp and stable, symbolizing the element of Fire. It represents energy, power, transformation, action, courage, and the spark of life. Associated with the Solar Plexus Chakra (Manipura), it embodies manifestation, stability, and the upward aspiration of spirit. Its pointed nature suggests dynamism and penetration." },
-                { type: 'image', src: 'https://placehold.co/400x300.png', alt: 'Tetrahedron shape with fire element symbol', dataAiHint: 'tetrahedron fire element' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/7/70/Tetrahedron.png', alt: 'Tetrahedron shape with fire element symbol', dataAiHint: 'tetrahedron fire element' }
             ],
             deepDiveContext: "Explore the Tetrahedron: 4 triangular faces, association with Fire, Solar Plexus Chakra. Discuss its symbolism related to energy, transformation, courage, and its stable yet dynamic form. How is it used in meditation or energy work?"
         },
@@ -1372,6 +1372,15 @@ export const glossaryData: Record<string, GlossaryPage> = {
                 { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Crystal platonic solids set or person meditating with them', dataAiHint: 'platonic solids crystals meditation' }
             ],
             deepDiveContext: "Discuss the practical applications of Platonic Solids in healing, meditation, and energy work. How are they used to balance chakras, align energy fields, or invoke specific elemental qualities? Explain their role in constructing more complex sacred geometries like Metatron's Cube or the Merkaba."
+        },
+        {
+            id: 'metatrons-cube-link', // Section for the image linking to Metatron's Cube page
+            subtitle: 'Metatron\'s Cube: Containing the Solids',
+            content: [
+                { type: 'paragraph', text: "As explored in detail on its own page, Metatron's Cube is derived from the Flower of Life and uniquely contains all five Platonic Solids within its geometry, highlighting their foundational role in creation. This makes Metatron's Cube a powerful symbol for understanding the interconnectedness of these primary forms." },
+                { type: 'image', src: 'https://ascensionglossary.com/images/9/9b/ES-Foundations-Cube-Halo-380.png', alt: 'Metatron\'s Cube symbol, linking to further details', dataAiHint: 'metatron cube symbol' }
+            ],
+            deepDiveContext: "Metatron's Cube is a significant sacred geometry symbol that contains all five Platonic Solids. Briefly explain this relationship and how it emphasizes the fundamental nature of the solids as building blocks of the universe. Guide users to the main Metatron's Cube section for more details."
         }
     ],
     relatedTopics: [
@@ -1407,4 +1416,3 @@ export const GlobalNavLinks: RelatedTopic[] = [
 ];
 
 export const DefaultPageSlug = 'lightbody';
-
