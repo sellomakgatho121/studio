@@ -468,7 +468,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
                 "Fibonacci Sequence (0, 1, 1, 2, 3, 5, 8, 13...): A series of numbers where each number is the sum of the two preceding ones. The ratio of successive Fibonacci numbers approximates the Golden Ratio. This sequence appears ubiquitously in natural growth patterns, demonstrating universal design principles.",
                 "Spiral (Logarithmic, Golden, Fibonacci): Represents evolution, growth, expansion, cyclical movement, and the journey from the inner self to the outer world and back. Found in galaxies, shells, DNA, and plant growth."
             ]},
-            { type: 'image', src: 'https://ascensionglossary.com/images/c/cd/Fibonaccispiral.jpg', alt: 'Artistic collage showcasing Vesica Piscis, Torus, Sri Yantra, and a Fibonacci spiral in nature', dataAiHint: 'vesica piscis torus yantra fibonacci' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/a/ad/Dnastructure.jpg', alt: 'Artistic collage showcasing Vesica Piscis, Torus, Sri Yantra, and a Fibonacci spiral in nature', dataAiHint: 'vesica piscis torus yantra fibonacci' },
             { type: 'quote', text: "Every line, every curve, every intersection in sacred geometry whispers a secret of the universe, waiting for the attuned heart to listen.", source: "The Geometer's Path" }
         ],
         deepDiveContext: "Numerous other geometric forms like the Seed of Life, Egg of Life, Fruit of Life, Vesica Piscis, the Torus yantra, and the Sri Yantra, along with fundamental mathematical principles such as the Golden Ratio (Phi) and the Fibonacci Sequence, hold profound meaning and practical application in the study and use of sacred geometry. These forms and ratios reveal deeper layers of universal design, energy flow, and consciousness. Explore their individual symbolism and interconnections."
@@ -601,7 +601,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'The Evolving Quest: The Future of Consciousness Research and Human Potential',
         content: [
             { type: 'paragraph', text: "The interdisciplinary study of consciousness is rapidly evolving, characterized by increasing dialogue, collaboration, and cross-pollination of ideas between traditionally disparate fields: rigorous scientific disciplines (neuroscience, cognitive psychology, quantum physics), analytical philosophy of mind, and ancient contemplative traditions with their sophisticated introspective methodologies. Future breakthroughs in understanding consciousness may well emerge from such integrated, 'consilient' approaches that combine objective, third-person empirical methods (e.g., advanced neuroimaging, computational modeling) with refined first-person introspective techniques (e.g., advanced meditation practices, phenomenological analysis)." },
-            { type: 'image', src: 'https://placehold.co/650x400.png', alt: 'Futuristic image blending human brain scans, quantum patterns, ancient symbols, and interconnected networks, representing integrated consciousness research.', dataAiHint: 'future consciousness research integration' },
+            { type: 'image', src: 'https://ascensionglossary.com/images/6/68/Brain-Frequency-Chart.jpg', alt: 'Futuristic image blending human brain scans, quantum patterns, ancient symbols, and interconnected networks, representing integrated consciousness research.', dataAiHint: 'future consciousness research integration' },
             { type: 'paragraph', text: "Pressing questions and frontier areas in consciousness research include:"},
             { type: 'list', items: [
                 "The 'Hard Problem' of Qualia: How and why do physical brain processes give rise to subjective experience?",
@@ -694,7 +694,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
               "Energy Work Modalities: Techniques like Reiki, Pranic Healing, Therapeutic Touch, or specific chakra healing protocols can be directly applied to clear and balance the chakras."
             ]
           },
-          { type: 'image', src: 'https://placehold.co/600x400.png', alt: 'Collection of items used for chakra balancing: crystals, tuning fork, essential oil bottle, colored fabrics', dataAiHint: 'chakra balancing tools collection' },
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/4a/Padma.jpg', alt: 'Collection of items used for chakra balancing: crystals, tuning fork, essential oil bottle, colored fabrics', dataAiHint: 'chakra balancing tools collection' },
           { type: 'paragraph', text: "A well-balanced and harmonious chakra system is fundamental to overall vitality, emotional stability, mental clarity, robust physical health, and open spiritual connection."}
         ],
         deepDiveContext: "Chakra balancing is crucial for maintaining holistic health, as these primary energy centers (typically seven main ones: Root, Sacral, Solar Plexus, Heart, Throat, Third Eye, Crown) govern different aspects of our physical, emotional, mental, and spiritual being. Imbalances (underactive, overactive, blocked) can lead to various issues. A wide variety of techniques, including meditation, visualization (colors, symbols), sound healing (bija mantras, bowls, tuning forks), crystal therapy, aromatherapy, specific yoga asanas, and direct energy work, can be employed to clear, align, energize, and harmonize the chakras. Explore the function of each chakra and corresponding balancing methods."
@@ -861,7 +861,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Svadhisthana: The Sacral Chakra - Creativity and Flow',
         content: [
           { type: 'paragraph', text: "Location: Lower abdomen, about two inches below the navel. Color: Orange. Element: Water. Bija Mantra: VAM. Function: Center of creativity, emotions, sexuality, pleasure, joy, and relationships. Governs our ability to feel and express emotions, and to adapt to change. Physical Association: Ovaries/testes, kidneys, bladder, circulatory system. Imbalances can manifest as emotional instability, creative blocks, sexual dysfunction, guilt, or addictive behaviors." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Sacral Chakra (Svadhisthana) - six-petaled lotus, often orange', dataAiHint: 'sacral chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/4a/Padma.jpg', alt: 'Symbol of the Sacral Chakra (Svadhisthana) - six-petaled lotus, often orange', dataAiHint: 'sacral chakra symbol' }
         ],
         deepDiveContext: "The Sacral Chakra (Svadhisthana), located in the lower abdomen, is associated with the color orange, the element Water, and the bija mantra VAM. It is the center for creativity, emotions, sexuality, and pleasure. Explore its connection to reproductive organs, kidneys, signs of imbalance (emotional issues, creative blocks), and balancing techniques (movement, orange color, water therapies)."
       },
@@ -870,7 +870,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Manipura: The Solar Plexus Chakra - Power and Will',
         content: [
           { type: 'paragraph', text: "Location: Upper abdomen, between the navel and the sternum. Color: Yellow. Element: Fire. Bija Mantra: RAM. Function: Seat of personal power, self-esteem, willpower, self-discipline, identity, and intellect. Governs metabolism and digestion. Physical Association: Pancreas, liver, stomach, spleen, small intestine, digestive system. Imbalances can lead to low self-esteem, powerlessness or aggression, control issues, digestive problems, or chronic fatigue." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Solar Plexus Chakra (Manipura) - ten-petaled lotus, often yellow', dataAiHint: 'solar plexus chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/4a/Padma.jpg', alt: 'Symbol of the Solar Plexus Chakra (Manipura) - ten-petaled lotus, often yellow', dataAiHint: 'solar plexus chakra symbol' }
         ],
         deepDiveContext: "The Solar Plexus Chakra (Manipura), located in the upper abdomen, resonates with yellow, the element Fire, and the mantra RAM. It's the center of personal power, self-esteem, and willpower. Discuss its link to digestion, pancreas, signs of imbalance (power issues, low self-worth), and balancing methods (core strengthening, yellow color, affirmations)."
       },
@@ -888,7 +888,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Vishuddha: The Throat Chakra - Communication and Truth',
         content: [
           { type: 'paragraph', text: "Location: Throat area. Color: Blue (light or sky blue). Element: Ether/Space. Bija Mantra: HAM. Function: Center for communication, self-expression, truth, creativity in speech and writing, and listening. Governs authenticity and speaking one's truth. Physical Association: Thyroid and parathyroid glands, throat, neck, mouth, ears, shoulders. Imbalances can manifest as difficulty expressing oneself, fear of speaking, dishonesty, gossiping, or physical issues like sore throats or thyroid problems." },
-          { type: 'image', src: 'https://placehold.co/400x400.png', alt: 'Symbol of the Throat Chakra (Vishuddha) - sixteen-petaled lotus, often blue', dataAiHint: 'throat chakra symbol' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/4/4a/Padma.jpg', alt: 'Symbol of the Throat Chakra (Vishuddha) - sixteen-petaled lotus, often blue', dataAiHint: 'throat chakra symbol' }
         ],
         deepDiveContext: "The Throat Chakra (Vishuddha), located at the throat, is linked to blue, the element Ether, and the mantra HAM. It is the center for communication, self-expression, and truth. Discuss its connection to the thyroid, signs of imbalance (communication issues, dishonesty), and balancing methods (chanting, expressive arts, blue color therapy)."
       },
@@ -970,7 +970,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             "Modern Design: From graphic design layouts and typography to product design, the Golden Ratio is sometimes used as a guideline for balanced and visually appealing compositions.",
             "Music: Some composers are said to have structured musical pieces based on Fibonacci numbers or Golden Ratio proportions."
           ]},
-          { type: 'image', src: 'https://ascensionglossary.com/images/f/f6/330px-0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(3).JPG', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/0/00/600px-Da_Vinci_Vitruve_Luc_Viatour.jpg', alt: 'Parthenon with Golden Rectangle overlay or Vitruvian Man', dataAiHint: 'golden ratio art architecture' }
         ],
         deepDiveContext: "The Golden Ratio has been influential in art, architecture, and design, believed to contribute to aesthetic harmony and balance. Discuss its purported use in iconic structures like the Parthenon, Renaissance masterpieces (e.g., Leonardo da Vinci), and modern design principles. Explore the evidence and controversies surrounding its intentional application."
       }
@@ -1039,7 +1039,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Why Do Patterns Emerge in Nature?',
         content: [
           { type: 'paragraph', text: "These patterns are not accidental but often result from processes of growth, efficiency, self-organization, and adaptation driven by physical laws and evolutionary pressures. For example, spiral arrangements in plants can optimize sunlight exposure, while fractal branching in trees or lungs can maximize surface area for exchange." },
-          { type: 'image', src: 'https://ascensionglossary.com/images/e/e1/Tree-Brains-textE.png', alt: 'Diagram illustrating efficient packing or growth leading to a pattern, like tree branching', dataAiHint: 'pattern formation efficiency tree growth' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/e1/Tree-Brains-textE.png', alt: 'Diagram illustrating efficient packing or growth leading to a pattern, like tree branching', dataAiHint: 'pattern formation efficiency' }
         ],
         deepDiveContext: "The emergence of patterns in nature is often driven by principles of efficiency (e.g., optimal packing, resource distribution, sunlight exposure), growth algorithms, self-organization processes, physical constraints, and evolutionary adaptation. Discuss the underlying scientific and mathematical reasons for specific patterns, such as why spirals form in phyllotaxis or why fractals appear in branching structures."
       }
@@ -1071,7 +1071,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Quantum Physics and Consciousness: Exploring Connections',
             content: [
                 { type: 'paragraph', text: "The role of the observer in quantum measurements (the 'measurement problem') and phenomena like entanglement have led some to speculate about deep connections between quantum physics and consciousness. Theories like Orchestrated Objective Reduction (Orch OR) by Penrose and Hameroff propose quantum processes in brain microtubules as a basis for consciousness. However, these ideas are highly debated and not mainstream within physics or neuroscience." },
-                { type: 'image', src: 'https://placehold.co/550x350.png', alt: 'Symbolic image linking brain activity or human consciousness with quantum wave functions', dataAiHint: 'quantum consciousness brain' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/6/68/Brain-Frequency-Chart.jpg', alt: 'Symbolic image linking brain activity or human consciousness with quantum wave functions', dataAiHint: 'quantum consciousness brain' }
             ],
             deepDiveContext: "The intersection of quantum physics and consciousness is a highly speculative and debated area. Discuss the 'measurement problem,' the role of the observer, and theories like Penrose-Hameroff's Orch OR. Critically examine the arguments for and against a direct quantum basis for consciousness, and differentiate between established quantum mechanics and its more esoteric interpretations."
         }
@@ -1369,7 +1369,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
             subtitle: 'Applications in Healing and Meditation',
             content: [
                 { type: 'paragraph', text: "The Platonic Solids are widely used in various spiritual and healing practices. Meditating with them, visualizing them around the body, or using physical models (often made of crystals) can help to balance the chakras, align the energy field, connect with elemental energies, and promote specific qualities associated with each solid. They are key components in understanding the energetic structure of the Lightbody and Merkaba." },
-                { type: 'image', src: 'https://placehold.co/600x350.png', alt: 'Crystal platonic solids set or person meditating with them', dataAiHint: 'platonic solids crystals meditation' }
+                { type: 'image', src: 'https://ascensionglossary.com/images/b/b3/Star-of-Azoth-285.png', alt: 'Crystal platonic solids set or person meditating with them', dataAiHint: 'platonic solids crystals meditation' }
             ],
             deepDiveContext: "Discuss the practical applications of Platonic Solids in healing, meditation, and energy work. How are they used to balance chakras, align energy fields, or invoke specific elemental qualities? Explain their role in constructing more complex sacred geometries like Metatron's Cube or the Merkaba."
         },
@@ -1416,4 +1416,5 @@ export const GlobalNavLinks: RelatedTopic[] = [
 ];
 
 export const DefaultPageSlug = 'lightbody';
+
 
