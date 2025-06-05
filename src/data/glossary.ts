@@ -1039,7 +1039,7 @@ export const glossaryData: Record<string, GlossaryPage> = {
         subtitle: 'Why Do Patterns Emerge in Nature?',
         content: [
           { type: 'paragraph', text: "These patterns are not accidental but often result from processes of growth, efficiency, self-organization, and adaptation driven by physical laws and evolutionary pressures. For example, spiral arrangements in plants can optimize sunlight exposure, while fractal branching in trees or lungs can maximize surface area for exchange." },
-          { type: 'image', src: 'https://placehold.co/500x350.png', alt: 'Diagram illustrating efficient packing or growth leading to a pattern', dataAiHint: 'pattern formation efficiency' }
+          { type: 'image', src: 'https://ascensionglossary.com/images/e/e1/Tree-Brains-textE.png', alt: 'Diagram illustrating efficient packing or growth leading to a pattern, like tree branching', dataAiHint: 'pattern formation efficiency tree growth' }
         ],
         deepDiveContext: "The emergence of patterns in nature is often driven by principles of efficiency (e.g., optimal packing, resource distribution, sunlight exposure), growth algorithms, self-organization processes, physical constraints, and evolutionary adaptation. Discuss the underlying scientific and mathematical reasons for specific patterns, such as why spirals form in phyllotaxis or why fractals appear in branching structures."
       }
@@ -1416,3 +1416,4 @@ export const GlobalNavLinks: RelatedTopic[] = [
 ];
 
 export const DefaultPageSlug = 'lightbody';
+
